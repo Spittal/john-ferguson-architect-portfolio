@@ -63,19 +63,19 @@ function toggleExpand () {
 <style scoped lang="postcss">
 .image-container {
   position: relative;
-  width: 50rem;
-  height: 50rem;
 
   & img {
-    width: 50rem;
-    height: 50rem;
+    width: 100%;
     object-fit: cover;
-    cursor: url("../assets/arrows/Expand-V2.svg"), pointer;
+    cursor: var(--cursor-expand);
   }
 }
 
 .full-screen-image {
   position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   top: 0;
   left: 0;
   bottom: 0;
@@ -84,8 +84,7 @@ function toggleExpand () {
 
   & img {
     width: 100%;
-    height: 100%;
-    cursor: url("../assets/arrows/Expand-V2.svg"), pointer;
+    cursor: var(--cursor-expand);
   }
 }
 
@@ -95,7 +94,7 @@ function toggleExpand () {
   left: 0;
   height: 100%;
   width: 50%;
-  cursor: url("../assets/arrows/Back-V2.svg"), auto;
+  cursor: var(--cursor-left);
 }
 
 .right-side {
@@ -104,11 +103,13 @@ function toggleExpand () {
   right: 0;
   height: 100%;
   width: 50%;
-  cursor: url("../assets/arrows/Forward-V2.svg"), auto;
+  cursor: var(--cursor-right);
 }
 
-.expandable {
-  width: 33%;
+@media (min-width: 1000px) {
+  .expandable {
+    width: 33%;
+  }
 }
 
 .counter {

@@ -16,7 +16,7 @@ import ImageCarousel from './components/ImageCarousel.vue';
       image: 'CAPE_SPLASH.jpg',
       description: 'bulding'
     },
-  ]" />
+  ]" work />
 </template>
 
 <style scoped></style>

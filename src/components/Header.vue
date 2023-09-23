@@ -11,28 +11,41 @@
 
 <style scoped lang="postcss">
 header {
-  display: flex;
-  align-items: start;
   padding: var(--spacing-md);
   background-color: var(--color-bg-light);
+
+  & .home-navigation {
+    margin-bottom: var(--spacing-md);
+  }
 }
 
 a {
-  color: black;
-  text-decoration: none;
-
-  &:hover {
-    border-bottom: var(--spacing-xs) solid black;
-  }
-
   &.home-navigation:hover {
     border: none;
+    padding-bottom: var(--spacing-xs);
   }
 }
 
 nav {
   display: flex;
-  gap: var(--spacing-md);
-  margin-left: auto;
+  flex-direction: column;
+  align-items: start;
+}
+
+@media (min-width: 1000px) {
+  header {
+    display: flex;
+    align-items: start;
+
+    & .home-navigation {
+      margin-bottom: 0;
+    }
+  }
+
+  nav {
+    flex-direction: row;
+    gap: var(--spacing-md);
+    margin-left: auto;
+  }
 }
 </style>
