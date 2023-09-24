@@ -58,7 +58,6 @@ function changeBg(image: WorkImage) {
   padding: var(--spacing-md);
 
   & img {
-    width: 100%;
     max-height: 80vh;
   }
 }
