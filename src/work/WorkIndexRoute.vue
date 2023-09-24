@@ -19,7 +19,7 @@ function changeBg(image: WorkImage) {
       <span class="number">{{ formatIndex(index) }}</span>
       <RouterLink
         :to="{name: 'work-item', params: { workSlug: workItem.slug }}"
-        @mouseenter="changeBg(workItem.images[0])"
+        @mouseenter="changeBg(workItem.cover_image)"
       >
         {{ workItem.name }}
       </RouterLink>

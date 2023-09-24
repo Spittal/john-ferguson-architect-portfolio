@@ -7,6 +7,7 @@ type WorkItem = {
   name: string;
   slug: string;
   images: WorkImage[];
+  cover_image: WorkImage;
   description: string;
 };
 

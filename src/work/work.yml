@@ -1,8 +1,9 @@
 - name: Forest House
   slug: forest-house
+  cover_image:
+    image: /images/FOREST HOUSE_COVER.jpg
+    description: bulding
   images:
-    - image: /images/FOREST HOUSE_COVER.jpg
-      description: bulding
     - image: /images/FOREST HOUSE_01.jpg
       description: bulding
     - image: /images/FOREST HOUSE_02.jpg
@@ -48,6 +49,9 @@
     It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 - name: Cape House
   slug: cape-house
+  cover_image:
+    image: /images/CAPE_SPLASH.jpg
+    description: bulding
   images:
     - image: /images/BENNETT_SPLASH.jpg
       description: bulding
