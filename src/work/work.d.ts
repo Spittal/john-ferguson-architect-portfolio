@@ -1,7 +1,12 @@
+type WorkImage = {
+  image: string;
+  description: string;
+};
+
 type WorkItem = {
   name: string;
   slug: string;
-  images: import('../helpers/image-helper').WorkImage[];
+  images: WorkImage[];
   description: string;
 };
 

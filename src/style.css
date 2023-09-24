@@ -2,7 +2,7 @@
   font-family: "NeueHaas";
   src:
     local("NeueHaas"),
-    url("assets/fonts/NeueHaasUnicaW1G-Regular.otf") format("opentype");
+    url("/fonts/NeueHaasUnicaW1G-Regular.otf") format("opentype");
 }
 
 :root {
@@ -24,10 +24,10 @@
 
   --color-bg-light: rgba(255, 255, 255, 1);
 
-  --cursor-primary: url("./assets/arrows/Arrow-V2.svg"), auto;
-  --cursor-left: url("./assets/arrows/Back-V2.svg"), auto;
-  --cursor-right: url("./assets/arrows/Forward-V2.svg"), auto;
-  --cursor-expand: url("./assets/arrows/Expand-V2.svg"), auto;
+  --cursor-primary: url("/arrows/Arrow-V2.svg"), auto;
+  --cursor-left: url("/arrows/Back-V2.svg"), auto;
+  --cursor-right: url("/arrows/Forward-V2.svg"), auto;
+  --cursor-expand: url("/arrows/Expand-V2.svg"), auto;
 
   --font-size-1: 1.5rem;
   --font-size-2: 1.2rem;
@@ -92,9 +92,9 @@ a {
 
     --color-bg-light: rgba(30, 30, 30, 1);
 
-    --cursor-primary: url("./assets/arrows/Arrow-V2-White.svg"), auto;
-    --cursor-left: url("./assets/arrows/Back-V2-White.svg"), auto;
-    --cursor-right: url("./assets/arrows/Forward-V2-White.svg"), auto;
-    --cursor-expand: url("./assets/arrows/Expand-V2-White.svg"), auto;
+    --cursor-primary: url("/arrows/Arrow-V2-White.svg"), auto;
+    --cursor-left: url("/arrows/Back-V2-White.svg"), auto;
+    --cursor-right: url("/arrows/Forward-V2-White.svg"), auto;
+    --cursor-expand: url("/arrows/Expand-V2-White.svg"), auto;
   }
 }

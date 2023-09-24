@@ -1,17 +1,14 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue';
-import { WorkImage, formatImagesWithSrc } from '../helpers/image-helper';
 
 const props = defineProps<{
   images: WorkImage[];
   work?: boolean;
 }>();
 
-const imagesWithSrc = formatImagesWithSrc(props.images);
-
 const currentImageIndex = ref(0);
 const currentImage = computed(() => {
-  return imagesWithSrc[currentImageIndex.value];
+  return props.images[currentImageIndex.value];
 });
 
 function nextImage () {
@@ -38,7 +35,7 @@ function toggleExpand () {
 
 <template>
   <div class="image-container">
-    <img :src="currentImage.src" :alt="currentImage.description" @click="toggleExpand">
+    <img :src="currentImage.image" :alt="currentImage.description" @click="toggleExpand">
     <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
     <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
     <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
@@ -47,7 +44,7 @@ function toggleExpand () {
   <Transition>
     <div class="full-screen-image" v-if="expanded">
       <div class="full-screen-image-container">
-        <img :src="currentImage.src" :alt="currentImage.description" @click="toggleExpand">
+        <img :src="currentImage.image" :alt="currentImage.description" @click="toggleExpand">
         <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
         <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
       </div>

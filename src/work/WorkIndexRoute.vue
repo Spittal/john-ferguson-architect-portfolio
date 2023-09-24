@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref } from 'vue';
-import { WorkImage, WorkImageWithSrc, formatImageWithSrc } from '../helpers/image-helper';
 import workItems from './work.yml';
 
 function formatIndex (index: number) {
@@ -8,9 +7,9 @@ function formatIndex (index: number) {
   return (nonZeroINdex > 9) ? `${nonZeroINdex}` : `0${nonZeroINdex}`;
 }
 
-const background = ref<WorkImageWithSrc>();
+const background = ref<WorkImage>();
 function changeBg(image: WorkImage) {
-  background.value = formatImageWithSrc(image);
+  background.value = image;
 }
 </script>
 
@@ -21,14 +20,13 @@ function changeBg(image: WorkImage) {
       <RouterLink
         :to="{name: 'work-item', params: { workSlug: workItem.slug }}"
         @mouseenter="changeBg(workItem.images[0])"
-        @mouseleave="background = undefined"
       >
         {{ workItem.name }}
       </RouterLink>
     </h2>
   </div>
   <div v-if="background" class="background-image">
-    <img :src="background.src" :alt="background.description">
+    <img :src="background.image" :alt="background.description">
   </div>
 </template>
 
