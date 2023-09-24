@@ -18,7 +18,7 @@
   color-scheme: light dark;
 
   --spacing-xs: 0.25rem;
-  --spacing-md: 2.5rem;
+  --spacing-md: 1.5rem;
 
   --color-text: #000000;
 
@@ -29,26 +29,35 @@
   --cursor-right: url("./assets/arrows/Forward-V2.svg"), auto;
   --cursor-expand: url("./assets/arrows/Expand-V2.svg"), auto;
 
+  --font-size-1: 1.5rem;
+  --font-size-2: 1.2rem;
+  --font-size-3: 1.2rem;
+
   --screen-md: 1000px;
 }
 
 html {
   background-color: var(--color-bg-light);
+  cursor: var(--cursor-primary);
 }
 
 body {
-  font-size: 1.3rem;
+  font-size: var(--font-size-3);
+  line-height: 1.3;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: var(--font-size-1);
+  line-height: 1.2;
   text-transform: uppercase;
   margin: 0;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: var(--font-size-2);
+  line-height: 1.2;
   text-transform: uppercase;
+  margin: 0;
 }
 
 a {
@@ -56,11 +65,9 @@ a {
   cursor: var(--cursor-primary);
   color: var(--color-text);
   text-decoration: none;
-  padding-bottom: var(--spacing-xs);
-  margin-bottom: var(--spacing-xs);
+  border-bottom: var(--spacing-xs) solid transparent;
 
   &:hover {
-    padding-bottom: 0;
     border-bottom: var(--spacing-xs) solid var(--color-text);
   }
 
@@ -69,6 +76,15 @@ a {
   }
 }
 
+@media (min-width: 1000px) {
+  :root {
+    --spacing-md: 2.5rem;
+
+    --font-size-1: 3rem;
+    --font-size-2: 2rem;
+    --font-size-3: 1.4em;
+  }
+}
 
 @media (prefers-color-scheme: dark) {
   :root {

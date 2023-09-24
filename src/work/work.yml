@@ -1,0 +1,26 @@
+- name: Forest House
+  slug: forest-house
+  images:
+    - image: ATTABOTICS_SPLASH.jpg
+      description: bulding
+    - image: BENNETT_SPLASH.jpg
+      description: bulding
+    - image: CAPE_SPLASH.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> SMStudio<br>
+    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was designed for a young family of three seeking a lifestyle change from city living.
+    The clients wanted their children to grow up in nature, but also wanted to have a refuge from it in the wetter, winter months.</p>
+- name: Cape House
+  slug: capte-house
+  images:
+    - image: BENNETT_SPLASH.jpg
+      description: bulding
+    - image: ATTABOTICS_SPLASH.jpg
+      description: bulding
+    - image: CAPE_SPLASH.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> SMStudio<br>
+    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was designed for a young family of three seeking a lifestyle change from city living.
+    The clients wanted their children to grow up in nature, but also wanted to have a refuge from it in the wetter, winter months.</p>

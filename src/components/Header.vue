@@ -1,6 +1,6 @@
 <template>
 <header>
-  <RouterLink  class="home-navigation" :to="{ name:'home' }"><h1>John Ferguson<br>Architect</h1></RouterLink>
+  <RouterLink  class="home-navigation" :to="{ name:'home' }"><h1>John Ferguson</h1></RouterLink>
 
   <nav>
     <RouterLink :to="{ name:'work-index' }"><h1>Work</h1></RouterLink>
@@ -11,41 +11,26 @@
 
 <style scoped lang="postcss">
 header {
+  display: flex;
+  align-items: start;
   padding: var(--spacing-md);
   background-color: var(--color-bg-light);
 
   & .home-navigation {
-    margin-bottom: var(--spacing-md);
+    margin-bottom: 0;
   }
 }
 
 a {
   &.home-navigation:hover {
-    border: none;
-    padding-bottom: var(--spacing-xs);
+    border-bottom: var(--spacing-xs) solid transparent;
   }
 }
 
 nav {
   display: flex;
-  flex-direction: column;
-  align-items: start;
-}
-
-@media (min-width: 1000px) {
-  header {
-    display: flex;
-    align-items: start;
-
-    & .home-navigation {
-      margin-bottom: 0;
-    }
-  }
-
-  nav {
-    flex-direction: row;
-    gap: var(--spacing-md);
-    margin-left: auto;
-  }
+  flex-direction: row;
+  gap: var(--spacing-md);
+  margin-left: auto;
 }
 </style>

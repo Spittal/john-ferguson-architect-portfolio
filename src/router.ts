@@ -15,7 +15,8 @@ export const router = createRouter({
     },
     {
       name: 'work-item',
-      path: '/work/:projectId',
+      path: '/work/:workSlug',
+      props: true,
       component: () => import('./work/WorkItemRoute.vue'),
     },
     {

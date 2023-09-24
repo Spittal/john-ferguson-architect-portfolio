@@ -1,20 +1,13 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue';
+import { WorkImage, formatImagesWithSrc } from '../helpers/image-helper';
 
 const props = defineProps<{
-  images: {
-    image: string;
-    description: string;
-  }[];
+  images: WorkImage[];
   work?: boolean;
 }>();
 
-const imagesWithSrc = props.images.map(image => {
-  return {
-    src: new URL('../assets/images/' + image.image, import.meta.url).href,
-    ...image,
-  }
-});
+const imagesWithSrc = formatImagesWithSrc(props.images);
 
 const currentImageIndex = ref(0);
 const currentImage = computed(() => {
@@ -53,9 +46,11 @@ function toggleExpand () {
 
   <Transition>
     <div class="full-screen-image" v-if="expanded">
-      <img :src="currentImage.src" :alt="currentImage.description" @click="toggleExpand">
-      <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
-      <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
+      <div class="full-screen-image-container">
+        <img :src="currentImage.src" :alt="currentImage.description" @click="toggleExpand">
+        <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
+        <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
+      </div>
     </div>
   </Transition>
 </template>
@@ -63,11 +58,14 @@ function toggleExpand () {
 <style scoped lang="postcss">
 .image-container {
   position: relative;
+  display: inline-block;
 
   & img {
     width: 100%;
+    max-height: 75vh;
     object-fit: cover;
     cursor: var(--cursor-expand);
+    margin: 0;
   }
 }
 
@@ -79,12 +77,19 @@ function toggleExpand () {
   top: 0;
   left: 0;
   bottom: 0;
+  right: 0;
   background-color: rgba(0, 0, 0, 0.8);
   padding: var(--spacing-md);
 
-  & img {
-    width: 100%;
-    cursor: var(--cursor-expand);
+  & .full-screen-image-container {
+    position: relative;
+    display: inline-block;
+
+    & img {
+      width: 100%;
+      max-height: 90vh;
+      cursor: var(--cursor-expand);
+    }
   }
 }
 
@@ -113,7 +118,7 @@ function toggleExpand () {
 }
 
 .counter {
-  font-size: 2rem;
+  font-size: var(--font-size-2);
   text-align: center;
 }
 
