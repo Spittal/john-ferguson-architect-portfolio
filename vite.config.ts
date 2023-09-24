@@ -8,4 +8,5 @@ export default defineConfig({
     vue(),
     ViteYaml()
   ],
+  base: 'john-ferguson-architect-portfolio'
 })
