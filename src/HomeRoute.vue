@@ -6,31 +6,31 @@ import ImageCarousel from './components/ImageCarousel.vue';
   <div class="home">
     <ImageCarousel :images="[
       {
-        image: '/images/ATTABOTICS_SPLASH.jpg',
+        image: 'images/ATTABOTICS_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/BENNETT_SPLASH.jpg',
+        image: 'images/BENNETT_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/LIVERY_SPLASH.jpg',
+        image: 'images/LIVERY_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/CAPE_SPLASH.jpg',
+        image: 'images/CAPE_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/SHOVEL_SPLASH.jpg',
+        image: 'images/SHOVEL_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/FOREST HOUSE_SPLASH.jpg',
+        image: 'images/FOREST HOUSE_SPLASH.jpg',
         description: 'bulding'
       },
       {
-        image: '/images/CJCA_SPLASH.jpg',
+        image: 'images/CJCA_SPLASH.jpg',
         description: 'bulding'
       },
     ]" />

@@ -1,58 +1,58 @@
 - name: FOREST HOUSE
   slug: forest-house
   cover_image:
-    image: /images/FOREST HOUSE_COVER.jpg
+    image: images/FOREST HOUSE_COVER.jpg
     description: bulding
   images:
-    - image: /images/FOREST HOUSE_01.jpg
+    - image: images/FOREST HOUSE_01.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_02.jpg
+    - image: images/FOREST HOUSE_02.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_03.jpg
+    - image: images/FOREST HOUSE_03.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_04.jg
+    - image: images/FOREST HOUSE_04.jg
       description: bulding
-    - image: /images/FOREST HOUSE_05.jpg
+    - image: images/FOREST HOUSE_05.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_06.jpg
+    - image: images/FOREST HOUSE_06.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_07.jpg
+    - image: images/FOREST HOUSE_07.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_08.jpg
+    - image: images/FOREST HOUSE_08.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_09.jpg
+    - image: images/FOREST HOUSE_09.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_10.jpg
+    - image: images/FOREST HOUSE_10.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_11.jpg
+    - image: images/FOREST HOUSE_11.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_12.jpg
+    - image: images/FOREST HOUSE_12.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_13.jpg
+    - image: images/FOREST HOUSE_13.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_14.jpg
+    - image: images/FOREST HOUSE_14.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_SECTION_01.jpg
+    - image: images/FOREST HOUSE_SECTION_01.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_SECTION_02.jpg
+    - image: images/FOREST HOUSE_SECTION_02.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_SECTION_03.jpg
+    - image: images/FOREST HOUSE_SECTION_03.jpg
       description: bulding
-    - image: /images/FOREST HOUSE_PLAN.png
+    - image: images/FOREST HOUSE_PLAN.png
       description: bulding
   description: >
     <b>Firm:</b> SMSTUDIO<br>
     <p>Bowen Island, BC<br>
     Completed 2023<br>
-    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was designed for a young family of three 
-    seeking a lifestyle change from city living. The clients wanted their children to grow up in nature, 
+    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was designed for a young family of three
+    seeking a lifestyle change from city living. The clients wanted their children to grow up in nature,
     but also wanted to have a refuge from it in the wetter, winter months.</p>
-    <p>Careful attention was paid to minimize site impact and give the house a light footprint. 
-    The concrete foundation at either end of the house is scribed tight to the granite bedrock, 
+    <p>Careful attention was paid to minimize site impact and give the house a light footprint.
+    The concrete foundation at either end of the house is scribed tight to the granite bedrock,
     anchoring the house to the site and allowing it to span between the rocks and float above the ground beneath.</p>
-    <p>Natural materials such as Douglas Fir plywood and Western Red Cedar are used throughout the house to reference 
-    the native trees of the region and add a sense of warmth. Interior finishings are minimal and carefully curated to 
-    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in - 
+    <p>Natural materials such as Douglas Fir plywood and Western Red Cedar are used throughout the house to reference
+    the native trees of the region and add a sense of warmth. Interior finishings are minimal and carefully curated to
+    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in -
     always changing throughout the day and providing framed views of the treetops above.</p>
     With Jennifer Bassett, Teague McCrae<br>
     Photos by Luiz Valdizon<br>
@@ -60,34 +60,34 @@
 - name: TOFINO RESIDENCE
   slug: tofino-residence
   cover_image:
-    image: /images/CAPE_COVER.jpg
+    image: images/CAPE_COVER.jpg
     description: bulding
   images:
-    - image: /images/CAPE_FLOOR PLAN.png
+    - image: images/CAPE_FLOOR PLAN.png
       description: bulding
-    - image: /images/CAPE_SECTION_01.png
+    - image: images/CAPE_SECTION_01.png
       description: bulding
-    - image: /images/CAPE_SECTION_02.png
+    - image: images/CAPE_SECTION_02.png
       description: bulding
-    - image: /images/CAPE_SECTION_03.png
+    - image: images/CAPE_SECTION_03.png
       description: bulding
-    - image: /images/CAPE_PATIO_03.jpg
+    - image: images/CAPE_PATIO_03.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_01.jpg
+    - image: images/CAPE_HALLWAY_01.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_HALLWAY_02.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_HALLWAY_02.jpg
       description: bulding
-    - image: /images/CAPE_KITCHEN_01.jpg
+    - image: images/CAPE_KITCHEN_01.jpg
       description: bulding
-    - image: /images/CAPE_LIVING_02.jpg
+    - image: images/CAPE_LIVING_02.jpg
       description: bulding
-    - image: /images/CAPE_LIVING_01.jpg
+    - image: images/CAPE_LIVING_01.jpg
       description: bulding
-    - image: /images/CAPE_PATIO_02.jpg
+    - image: images/CAPE_PATIO_02.jpg
       description: bulding
-    - image: /images/CAPE_PATIO_01.jpg
+    - image: images/CAPE_PATIO_01.jpg
       description: bulding
   description: >
     <b>Firm:</b> SMSTUDIO<br>
@@ -107,38 +107,38 @@
 - name: BENNETT RESIDENCE
   slug: bennett-residence
   cover_image:
-    image: /images/BENNETT_COVER.jpg
+    image: images/BENNETT_COVER.jpg
     description: bulding
   images:
-    - image: /images/BENNETT_FLOOR PLAN_03.png
+    - image: images/BENNETT_FLOOR PLAN_03.png
       description: bulding
-    - image: /images/BENNETT_FLOOR PLAN_01.png
+    - image: images/BENNETT_FLOOR PLAN_01.png
       description: bulding
-    - image: /images/BENNETT_FLOOR PLAN_02.png
+    - image: images/BENNETT_FLOOR PLAN_02.png
       description: bulding
-    - image: /images/BENNETT_01.jpg
+    - image: images/BENNETT_01.jpg
       description: bulding
-    - image: /images/BENNETT_02.jpg
+    - image: images/BENNETT_02.jpg
       description: bulding
-    - image: /images/BENNETT_04.jpg
+    - image: images/BENNETT_04.jpg
       description: bulding
-    - image: /images/BENNETT_03.jpg
+    - image: images/BENNETT_03.jpg
       description: bulding
-    - image: /images/BENNETT_06.jpg
+    - image: images/BENNETT_06.jpg
       description: bulding
-    - image: /images/BENNETT_05.jpg
+    - image: images/BENNETT_05.jpg
       description: bulding
-    - image: /images/BENNETT_07.jpg
+    - image: images/BENNETT_07.jpg
       description: bulding
-    - image: /images/BENNETT_08.jpg
+    - image: images/BENNETT_08.jpg
       description: bulding
-    - image: /images/BENNETT_09.jpg
+    - image: images/BENNETT_09.jpg
       description: bulding
-    - image: /images/BENNETT_10.jpg
+    - image: images/BENNETT_10.jpg
       description: bulding
-    - image: /images/BENNETT_11.jpg
+    - image: images/BENNETT_11.jpg
       description: bulding
-    - image: /images/BENNETT_12.jpg
+    - image: images/BENNETT_12.jpg
   description: >
     <b>Firm:</b> SMSTUDIO<br>
     <p>Bowen Island, BC<br>
@@ -157,34 +157,34 @@
 - name: CAPE RESIDENCE
   slug: cape-residence
   cover_image:
-    image: /images/CAPE_COVER.jpg
+    image: images/CAPE_COVER.jpg
     description: bulding
   images:
-    - image: /images/CAPE_FLOOR PLAN.png
+    - image: images/CAPE_FLOOR PLAN.png
       description: bulding
-    - image: /images/CAPE_SECTION_01.png
+    - image: images/CAPE_SECTION_01.png
       description: bulding
-    - image: /images/CAPE_SECTION_02.png
+    - image: images/CAPE_SECTION_02.png
       description: bulding
-    - image: /images/CAPE_SECTION_03.png
+    - image: images/CAPE_SECTION_03.png
       description: bulding
-    - image: /images/CAPE_PATIO_03.jpg
+    - image: images/CAPE_PATIO_03.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_01.jpg
+    - image: images/CAPE_HALLWAY_01.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_HALLWAY_02.jpg
       description: bulding
-    - image: /images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_HALLWAY_02.jpg
       description: bulding
-    - image: /images/CAPE_KITCHEN_01.jpg
+    - image: images/CAPE_KITCHEN_01.jpg
       description: bulding
-    - image: /images/CAPE_LIVING_02.jpg
+    - image: images/CAPE_LIVING_02.jpg
       description: bulding
-    - image: /images/CAPE_LIVING_01.jpg
+    - image: images/CAPE_LIVING_01.jpg
       description: bulding
-    - image: /images/CAPE_PATIO_02.jpg
+    - image: images/CAPE_PATIO_02.jpg
       description: bulding
-    - image: /images/CAPE_PATIO_01.jpg
+    - image: images/CAPE_PATIO_01.jpg
       description: bulding
   description: >
     <b>Firm:</b> SMSTUDIO<br>
