@@ -14,11 +14,23 @@ import ImageCarousel from './components/ImageCarousel.vue';
         description: 'bulding'
       },
       {
-        image: 'images/LIVERY_SPLASH.jpg',
+        image: 'images/TOFINO_SPLASH.jpg',
         description: 'bulding'
       },
       {
         image: 'images/CAPE_SPLASH.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/CAPE_SPLASH 2.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/LIVERY_SPLASH.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/CJCA_SPLASH.jpg',
         description: 'bulding'
       },
       {
@@ -30,7 +42,19 @@ import ImageCarousel from './components/ImageCarousel.vue';
         description: 'bulding'
       },
       {
-        image: 'images/CJCA_SPLASH.jpg',
+        image: 'images/FOOD HUB_SPLASH.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/COLLECTIVE LIVING_SPLASH.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/COLLECTIVE LIVING_SPLASH_02.jpg',
+        description: 'bulding'
+      },
+      {
+        image: 'images/CAVITY_SPLASH.jpg',
         description: 'bulding'
       },
     ]" />
