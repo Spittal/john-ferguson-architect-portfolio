@@ -41,7 +41,7 @@
     - image: images/FOREST HOUSE_14.jpg
       description: bulding
   description: >
-    <b>Firm:</b> SMSTUDIO<br>
+    <b>Firm:</b> SMSTUDIO
     <p>Bowen Island, BC<br>
     Completed 2023<br>
     <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was 
@@ -102,7 +102,7 @@
     - image: images/TOFINO_11.jpg
       description: bulding
   description: >
-    <b>Firm:</b> SMSTUDIO<br>
+    <b>Firm:</b> SMSTUDIO
     <p>Tofino, BC<br>
     Under Construction<br>
     <p>The Tofino residence is conceived of as a cluster of simple buildings that together form a coherent ensemble. The
@@ -151,7 +151,7 @@
       description: bulding
     - image: images/BENNETT_12.jpg
   description: >
-    <b>Firm:</b> SMSTUDIO<br>
+    <b>Firm:</b> SMSTUDIO
     <p>Vancouver, BC<br>
     Completed 2023<br>
     <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
@@ -198,7 +198,7 @@
     - image: images/CAPE_PATIO_01.jpg
       description: bulding
   description: >
-    <b>Firm:</b> SMSTUDIO<br>
+    <b>Firm:</b> SMSTUDIO
     <p>Bowen Island, BC<br>
     Permits 2023<br>
     <p>Designed as a rural home for a growing family of five, the Cape Residence is located on a twenty-acre forested
@@ -241,7 +241,7 @@
     - image: images/LIVERY_03.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA<br>
+    <b>Firm:</b> MoDA
     <p>Calgary, AB<br>
     Completed 2019<br>
     <p>In a city that struggles with the banality and sameness of contemporary development, the community of Inglewood exists
@@ -260,17 +260,17 @@
     image: images/CJCA_COVER.jpg
     description: bulding
   images:
+    - image: images/CJCA_02.jpg
+      description: bulding
+    - image: images/CJCA_01.jpg
+      description: bulding
+    - image: images/CJCA_03.jpg
+      description: bulding
     - image: images/CJCA_DIAGRAM_01.jpg
       description: bulding
     - image: images/CJCA_DIAGRAM_02.jpg
       description: bulding
     - image: images/CJCA_DIAGRAM_03.jpg
-      description: bulding
-    - image: images/CJCA_01.jpg
-      description: bulding
-    - image: images/CJCA_02.jpg
-      description: bulding
-    - image: images/CJCA_03.jpg
       description: bulding
     - image: images/CJCA_PLAN_01.jpg
       description: bulding
@@ -281,7 +281,7 @@
     - image: images/CJCA_SECTION_02.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA<br>
+    <b>Firm:</b> MoDA
     <p>Calgary, AB<br>
     Permits 2022<br>
     <p>The Calgary Japanese Community Association (CJCA) wanted to replace their aging facility with a new building
@@ -322,7 +322,7 @@
     - image: images/CJCA_SECTION_02.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA<br>
+    <b>Firm:</b> MoDA
     <p>Winnipeg, MB<br>
     Completed 2020<br>
     <p>Conceived as a small shelter, S(hovel) re-imagines an off-the-shelf object of winter as a swirling vortex of mystery
@@ -371,14 +371,105 @@
     - image: images/ATTABOTICS_06.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA<br>
+    <b>Firm:</b> MoDA
     <p>Calgary, AB<br>
     Permits 2020<br>
     <p>When we first met with our client – a robotics design and manufacturing company called Attabotics - they
     made it clear they didn’t want a boring box. They wanted something that would create a collaborative and engaging
     work environment, something that would take respect and harness the potential of a pristine prairie landscape
-    site, and something that would challenge the architectural culture of the city..</p>
+    site, and something that would challenge the architectural culture of the city.</p>
     <p>With these asks in mind, we identified three design challenges: how do we accommodate the disparate needs 
     of both office and manufacturing space? How do we take advantage of challenging airport bylaws, which restrict the
     building’s height? And how can the project foster a culture of openness, sharing and collaboration for its users?</p><br>
     With David Vera, Anthony Schmidt<br>
+- name: EDMONTON FOOD HUB
+  slug: food-hub
+  cover_image:
+    image: images/FOOD HUB_COVER.jpg
+    description: bulding
+  images:
+    - image: images/FOOD HUB_01.jpg
+      description: bulding
+    - image: images/FOOD HUB_02.jpg
+      description: bulding
+    - image: images/FOOD HUB_03.jpg
+      description: bulding
+    - image: images/FOOD HUB_04.jpg
+      description: bulding
+    - image: images/FOOD HUB_05.jpg
+      description: bulding
+    - image: images/FOOD HUB_06.jpg
+      description: bulding
+    - image: images/FOOD HUB_07.jpg
+      description: bulding
+    - image: images/FOOD HUB_DIAGRAM_01.jpg
+      description: bulding
+    - image: images/FOOD HUB_DIAGRAM_02.jpg
+      description: bulding
+    - image: images/FOOD HUB_DIAGRAM_03.jpg
+      description: bulding
+    - image: images/FOOD HUB_PLAN_01.jpg
+      description: bulding
+    - image: images/FOOD HUB_PLAN_02.jpg
+      description: bulding
+    - image: images/FOOD HUB_SECTION_01.jpg
+      description: bulding
+    - image: images/FOOD HUB_SECTION_02.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> MoDA
+    <p>Edmonton, AB<br>
+    Permits 2020<br>
+    <p>Alberta’s economy has been prone to a boom-bust fluctuation of growth and despair for many decades, which
+    has a profound effect on the volatility of the real estate market. As such, it is becoming increasingly difficult as a
+    small business to find an affordable space to lease, as land owners increasingly are not willing to risk the capital
+    investment required to provide such low-return spaces in such a volatile market. Our client tasked us with finding an
+    alternative - how can we provide small-scale, affordable commercial spaces to young businesses, while providing
+    them with the flexibility to develop the site in the future? And all the while ensuring that the building is contributing to a 
+    resilient and sustainable future.</p>
+    <p>We envision a project built entirely of pre-fab, off-the-shelf quonset components, in order to produce a building that
+    can be readily erected, expanded upon, and disassembled at the end of its life-cycle. By incorporating principles of circular
+    design, we can provide a low-cost, and sustainable project to the community of Edmonton.</p><br>
+    With Nicholas Tam, Anthony Schmidt<br>
+- name: A MODEL FOR COLLECTIVE LIVING
+  slug: co-living
+  cover_image:
+    image: images/COLLECTIVE LIVING_COVER.jpg
+    description: bulding
+  images:
+    - image: images/COLLECTIVE LIVING_COVER.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_EXTERIOR.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_LIVING.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_PATIO.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_BEDROOM.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_PLAN_01.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_PLAN_02.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_PLAN_03.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_SECTION_01.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_SECTION_02.jpg
+      description: bulding
+    - image: images/COLLECTIVE LIVING_SECTION_03.jpg
+      description: bulding
+  description: >
+    <b>Studio:</b> M.Arch Studio 5
+    <p>Barcelona, Spain<br>
+    Supervisor: Rafael Gómez-Moriana<br>
+    <p>“The worker is at home when he is not working, and not at home when he is working” - Marx’s Capital p. 326.</p>
+    <p>Labour in our society is becoming increasingly immaterial. The domicile itself is now a cognitive factory; no longer
+    defined by the 9-to-5 workday and no longer tied to the office, WFH has eroded one of the last remaining
+    boundaries between productive labour and social reproduction. Conversely, office space is being increasingly
+    “domesticized” through residential furniture, snacks and perks, with the goal of concealing the ever-rising disparity
+    between compensation and productivity in the post-Fordist neoliberal economy. How can, and should, architecture try
+    to accommodate this less hermetic relationship between live and work?</p>
+    <p>In addition, conventions of private ownership, nuclear family structures, and individual living are no longer totalistic -
+    facing economic pressures, communities are exploring new approaches to domestic relations. What could a model for a
+    more collective and collaborative living space could look like?</p><br>
