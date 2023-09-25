@@ -4,13 +4,21 @@
     image: images/FOREST HOUSE_COVER.jpg
     description: bulding
   images:
+    - image: images/FOREST HOUSE_PLAN.png
+      description: bulding
+    - image: images/FOREST HOUSE_SECTION_01.jpg
+      description: bulding
+    - image: images/FOREST HOUSE_SECTION_02.jpg
+      description: bulding
+    - image: images/FOREST HOUSE_SECTION_03.jpg
+      description: bulding
     - image: images/FOREST HOUSE_01.jpg
       description: bulding
     - image: images/FOREST HOUSE_02.jpg
       description: bulding
     - image: images/FOREST HOUSE_03.jpg
       description: bulding
-    - image: images/FOREST HOUSE_04.jg
+    - image: images/FOREST HOUSE_04.jpg
       description: bulding
     - image: images/FOREST HOUSE_05.jpg
       description: bulding
@@ -32,77 +40,80 @@
       description: bulding
     - image: images/FOREST HOUSE_14.jpg
       description: bulding
-    - image: images/FOREST HOUSE_SECTION_01.jpg
-      description: bulding
-    - image: images/FOREST HOUSE_SECTION_02.jpg
-      description: bulding
-    - image: images/FOREST HOUSE_SECTION_03.jpg
-      description: bulding
-    - image: images/FOREST HOUSE_PLAN.png
-      description: bulding
   description: >
     <b>Firm:</b> SMSTUDIO<br>
     <p>Bowen Island, BC<br>
     Completed 2023<br>
-    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was designed for a young family of three
-    seeking a lifestyle change from city living. The clients wanted their children to grow up in nature,
-    but also wanted to have a refuge from it in the wetter, winter months.</p>
-    <p>Careful attention was paid to minimize site impact and give the house a light footprint.
-    The concrete foundation at either end of the house is scribed tight to the granite bedrock,
-    anchoring the house to the site and allowing it to span between the rocks and float above the ground beneath.</p>
+    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was 
+    designed for a young family of three seeking a lifestyle change from city living. The clients wanted their 
+    children to grow up in nature, but also wanted to have a refuge from it in the wetter, winter months.</p>
+    <p>Careful attention was paid to minimize site impact and give the house a light footprint. The concrete foundation 
+    at either end of the house is scribed tight to the granite bedrock, anchoring the house to the site and allowing 
+    it to span between the rocks and float above the ground beneath.</p>
     <p>Natural materials such as Douglas Fir plywood and Western Red Cedar are used throughout the house to reference
     the native trees of the region and add a sense of warmth. Interior finishings are minimal and carefully curated to
-    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in -
-    always changing throughout the day and providing framed views of the treetops above.</p>
+    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in - always changing 
+    throughout the day and providing framed views of the treetops above.</p>
     With Jennifer Bassett, Teague McCrae<br>
     Photos by Luiz Valdizon<br>
     @whentheyfindus
 - name: TOFINO RESIDENCE
   slug: tofino-residence
   cover_image:
-    image: images/CAPE_COVER.jpg
+    image: images/TOFINO_COVER.jpg
     description: bulding
   images:
-    - image: images/CAPE_FLOOR PLAN.png
+    - image: images/TOFINO_FLOOR PLAN_01.png
       description: bulding
-    - image: images/CAPE_SECTION_01.png
+    - image: images/TOFINO_FLOOR PLAN_02.png
       description: bulding
-    - image: images/CAPE_SECTION_02.png
+    - image: images/TOFINO_ELEVATION_01.png
       description: bulding
-    - image: images/CAPE_SECTION_03.png
+    - image: images/TOFINO_ELEVATION_02.png
       description: bulding
-    - image: images/CAPE_PATIO_03.jpg
+    - image: images/TOFINO_ELEVATION_03.png
       description: bulding
-    - image: images/CAPE_HALLWAY_01.jpg
+    - image: images/TOFINO_SECTION.png
       description: bulding
-    - image: images/CAPE_HALLWAY_02.jpg
+    - image: images/TOFINO_LANDSCAOPE.png
       description: bulding
-    - image: images/CAPE_HALLWAY_02.jpg
+    - image: images/TOFINO_DETAILS.png
       description: bulding
-    - image: images/CAPE_KITCHEN_01.jpg
+    - image: images/TOFINO_01.jpg
       description: bulding
-    - image: images/CAPE_LIVING_02.jpg
+    - image: images/TOFINO_02.jpg
       description: bulding
-    - image: images/CAPE_LIVING_01.jpg
+    - image: images/TOFINO_03.jpg
       description: bulding
-    - image: images/CAPE_PATIO_02.jpg
+    - image: images/TOFINO_04.jpg
       description: bulding
-    - image: images/CAPE_PATIO_01.jpg
+    - image: images/TOFINO_06.jpg
+      description: bulding
+    - image: images/TOFINO_05.jpg
+      description: bulding
+    - image: images/TOFINO_07.jpg
+      description: bulding
+    - image: images/TOFINO_08.jpg
+      description: bulding
+    - image: images/TOFINO_09.jpg
+      description: bulding
+    - image: images/TOFINO_10.jpg
+      description: bulding
+    - image: images/TOFINO_11.jpg
       description: bulding
   description: >
     <b>Firm:</b> SMSTUDIO<br>
-    <p>Bowen Island, BC<br>
-    Permits 2023<br>
-    <p>Designed as a rural home for a growing family of five, the Cape Residence is located on a twenty-acre forested
-    site on Cape Roger Curtis on Bowen Island. The house is rigorously organized around a densely planted central
-    courtyard, blurring the boundary between landscape and architecture. A large overhanging roof provides a sense of
-    continuity between exterior and interior spaces, while also providing protection from the wetter winter months.</p>
-    <p>The house is situated on the landscape in a manner that minimizes the building footprint, preserving the delicate
-    grassy bluff biome that is unique to the Cape. Continuous view corridors throughout the house are carefully oriented
-    to connect with the immediate forest, a small clearing to the northeast, and an ocean view to the west.</p>
-    <p>The program is arranged with more social spaces situated around the north and west edges of the courtyard, in order
-    to take advantage of the filtered sunlight. Private and service spaces are arranged around the periphery, and adjacent to
-    the forested slope of the site..</p><br>
+    <p>Tofino, BC<br>
+    Under Construction<br>
+    <p>The Tofino residence is conceived of as a cluster of simple buildings that together form a coherent ensemble. The
+    house is comprised of three wings: the entry/guest wing, the communal wing, and the family wing. Each volume is
+    carefully placed on the site in order to frame landscape courtyards, to align with curated views, and to preserve the
+    numerous old growth firs and cedars on the property.</p>
+    <p>There are a few key elements that define the house. The first is a continuous floating concrete foundation which is
+    required to keep the house above tsunami flood levels, and to preserve the delicate marshy rainforest ecosystem of Tofino.
+    The second is the douglas fir timber ceiling structure that is exposed throughout the house, which provides a feeling 
+    of warmth in an extremely rainy climate. The third are the large windows which frame carefully selected views into the
+    landscape, while skylights in every double-height space fill the interiors with natural light in the more overcast months.</p><br>
     With Andrea Gutierrez<br>
 - name: BENNETT RESIDENCE
   slug: bennett-residence
@@ -141,19 +152,19 @@
     - image: images/BENNETT_12.jpg
   description: >
     <b>Firm:</b> SMSTUDIO<br>
-    <p>Bowen Island, BC<br>
-    Permits 2023<br>
-    <p>Designed as a rural home for a growing family of five, the Cape Residence is located on a twenty-acre forested
-    site on Cape Roger Curtis on Bowen Island. The house is rigorously organized around a densely planted central
-    courtyard, blurring the boundary between landscape and architecture. A large overhanging roof provides a sense of
-    continuity between exterior and interior spaces, while also providing protection from the wetter winter months.</p>
-    <p>The house is situated on the landscape in a manner that minimizes the building footprint, preserving the delicate
-    grassy bluff biome that is unique to the Cape. Continuous view corridors throughout the house are carefully oriented
-    to connect with the immediate forest, a small clearing to the northeast, and an ocean view to the west.</p>
-    <p>The program is arranged with more social spaces situated around the north and west edges of the courtyard, in order
-    to take advantage of the filtered sunlight. Private and service spaces are arranged around the periphery, and adjacent to
-    the forested slope of the site..</p><br>
-    With Andrea Gutierrez<br>
+    <p>Vancouver, BC<br>
+    Completed 2023<br>
+    <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
+    would better suit their lifestyle. The arrangement of rooms in the house inverts the typical residential layout by placing
+    the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows 
+    the living room to take advantage of views of the adjacent park, Burrard inlet and the North Shore mountains beyond,
+    while providing privacy to the inward-facing bedrooms.</p>
+    <p>The facade pattern is born out of fire rating requirements and a desire to utilize a generic / lower cost building material in
+    an innovative way. The result is a bold, playful facade that plays with light and shadow to create a sense of depth and
+    rhythm. The project utilizes LVL beams to span the width of the room without the need for additional supporting
+    columns. Materials such as natural stone, board formed concrete and Douglas Fir are used throughout the project 
+    and create a sense of calm and a neutral backdrop for the owners to show their personality through art and furniture.</p><br>
+    With Jennifer Bassett, Teague McCrae<br>
 - name: CAPE RESIDENCE
   slug: cape-residence
   cover_image:
@@ -199,5 +210,175 @@
     to connect with the immediate forest, a small clearing to the northeast, and an ocean view to the west.</p>
     <p>The program is arranged with more social spaces situated around the north and west edges of the courtyard, in order
     to take advantage of the filtered sunlight. Private and service spaces are arranged around the periphery, and adjacent to
-    the forested slope of the site..</p><br>
+    the forested slope of the site.</p><br>
     With Andrea Gutierrez<br>
+- name: LIVERY SHOP
+  slug: livery-shop
+  cover_image:
+    image: images/LIVERY_COVER.jpg
+    description: bulding
+  images:
+    - image: images/LIVERY_DIAGRAM_01.jpg
+      description: bulding
+    - image: images/LIVERY_DIAGRAM_02.jpg
+      description: bulding
+    - image: images/LIVERY_DIAGRAM_03.jpg
+      description: bulding
+    - image: images/LIVERY_01.jpg
+      description: bulding
+    - image: images/LIVERY_09.jpg
+      description: bulding
+    - image: images/LIVERY_02.jpg
+      description: bulding
+    - image: images/LIVERY_04.jpg
+      description: bulding
+    - image: images/LIVERY_05.jpg
+      description: bulding
+    - image: images/LIVERY_07.jpg
+      description: bulding
+    - image: images/LIVERY_08.jpg
+      description: bulding
+    - image: images/LIVERY_03.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> MoDA<br>
+    <p>Calgary, AB<br>
+    Completed 2019<br>
+    <p>In a city that struggles with the banality and sameness of contemporary development, the community of Inglewood exists
+    as an anomaly. Inglewood has largely managed to preserve a great number of historic industrial typologies which have
+    since been displaced to suburban industrial parks. In recent years, Inglewood has witnessed rapid gentrification as young
+    start-up companies, breweries, galleries and restaurants move in, resulting in a great pressure to preserve and celebrate old
+    industrial spaces.</p>
+    <p>The Livery looks to support this shrinking small-scale industrial need, by providing new light industrial and commercial space to the
+    neighbourhood. Architecturally, the project analyzes historical identities and manipulates them through a distortion of scale,
+    a juxtaposition of materials, and the playful reinterpretation of traditional tectonics. The project also aims to blur together
+    public and private space by framing an outdoor space to be used for pop-up markets and cultural events.</p><br>
+    With David Vera<br>
+- name: CALGARY JAPANESE COMMUNITY CENTRE
+  slug: cjca
+  cover_image:
+    image: images/CJCA_COVER.jpg
+    description: bulding
+  images:
+    - image: images/CJCA_DIAGRAM_01.jpg
+      description: bulding
+    - image: images/CJCA_DIAGRAM_02.jpg
+      description: bulding
+    - image: images/CJCA_DIAGRAM_03.jpg
+      description: bulding
+    - image: images/CJCA_01.jpg
+      description: bulding
+    - image: images/CJCA_02.jpg
+      description: bulding
+    - image: images/CJCA_03.jpg
+      description: bulding
+    - image: images/CJCA_PLAN_01.jpg
+      description: bulding
+    - image: images/CJCA_PLAN_02.jpg
+      description: bulding
+    - image: images/CJCA_SECTION_01.jpg
+      description: bulding
+    - image: images/CJCA_SECTION_02.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> MoDA<br>
+    <p>Calgary, AB<br>
+    Permits 2022<br>
+    <p>The Calgary Japanese Community Association (CJCA) wanted to replace their aging facility with a new building
+    that would address their declining social, cultural and environmental sustainability.</p>
+    <p>Through researching sensitive cultural aspects of Japanese culture and Nikkei identity (Japanese Canadians), we
+    encountered the notion of Kakehashi – a Japanese word for ‘bridge’. This led us towards developing a more inclusive
+    program comprised of various Japanese cultural, social and educational facilities, eight affordable housing units 
+    and a daycare. Assembling the various programs around a shared courtyard encourages cross-pollination and
+    social interaction amongst the various demographics and generations of the centre’s membership.</p>
+    <p>The incomplete oval plan references Ma, the balance of mass and void. The ‘void’ developed into a contemporary
+    interpretation of the Engawa – the traditional threshold between building and garden – providing not only an
+    auxiliary space and access point for the various programs, but also framing the revered Japanese garden.</p><br>
+    With David Vera, Anthony Schmidt, Dr. Henry Tsang<br>
+- name: SHOVEL WARMING HUT INSTALLATION
+  slug: shovel
+  cover_image:
+    image: images/SHOVEL_COVER.jpg
+    description: bulding
+  images:
+    - image: images/CJCA_DIAGRAM_01.jpg
+      description: bulding
+    - image: images/CJCA_DIAGRAM_02.jpg
+      description: bulding
+    - image: images/CJCA_DIAGRAM_03.jpg
+      description: bulding
+    - image: images/CJCA_01.jpg
+      description: bulding
+    - image: images/CJCA_02.jpg
+      description: bulding
+    - image: images/CJCA_03.jpg
+      description: bulding
+    - image: images/CJCA_PLAN_01.jpg
+      description: bulding
+    - image: images/CJCA_PLAN_02.jpg
+      description: bulding
+    - image: images/CJCA_SECTION_01.jpg
+      description: bulding
+    - image: images/CJCA_SECTION_02.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> MoDA<br>
+    <p>Winnipeg, MB<br>
+    Completed 2020<br>
+    <p>Conceived as a small shelter, S(hovel) re-imagines an off-the-shelf object of winter as a swirling vortex of mystery
+    and intrigue that only reveals its true assembly upon closer inspection. Built from 214 aluminum shovels, 142
+    scaffold segments, and 388 scaffold clamps, we challenged ourselves to design a warming hut that could be built and
+    disassembled without any permanent fastening.</p>
+    <p>Designed for disassembly, S(hovel) is destined for a philanthropic afterlife. Following their brief stint as a
+    Warming Hut, the shovels were donated to Take Pride Winnipeg’s Snow Angel Program, a non-profit charity
+    that helps seniors and the infirm with snow removal each year. The scaffolding was rented and returned, as was the 
+    foundation base.</p><br>
+    With David Vera, Anthony Schmidt<br>
+- name: ATTABOTICS HEADQUARTERS
+  slug: attabotics-hq
+  cover_image:
+    image: images/ATTABOTICS_COVER.jpg
+    description: bulding
+  images:
+    - image: images/ATTABOTICS_01.jpg
+      description: bulding
+    - image: images/ATTABOTICS_02.jpg
+      description: bulding
+    - image: images/ATTABOTICS_03.jpg
+      description: bulding
+    - image: images/ATTABOTICS_04.jpg
+      description: bulding
+    - image: images/ATTABOTICS_05.jpg
+      description: bulding
+    - image: images/ATTABOTICS_MODEL_01.jpg
+      description: bulding
+    - image: images/ATTABOTICS_MODEL_02.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_01.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_02.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_03.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_04.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_05.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_06.jpg
+      description: bulding
+    - image: images/ATTABOTICS_DIAGRAM_07.jpg
+      description: bulding
+    - image: images/ATTABOTICS_06.jpg
+      description: bulding
+  description: >
+    <b>Firm:</b> MoDA<br>
+    <p>Calgary, AB<br>
+    Permits 2020<br>
+    <p>When we first met with our client – a robotics design and manufacturing company called Attabotics - they
+    made it clear they didn’t want a boring box. They wanted something that would create a collaborative and engaging
+    work environment, something that would take respect and harness the potential of a pristine prairie landscape
+    site, and something that would challenge the architectural culture of the city..</p>
+    <p>With these asks in mind, we identified three design challenges: how do we accommodate the disparate needs 
+    of both office and manufacturing space? How do we take advantage of challenging airport bylaws, which restrict the
+    building’s height? And how can the project foster a culture of openness, sharing and collaboration for its users?</p><br>
+    With David Vera, Anthony Schmidt<br>
