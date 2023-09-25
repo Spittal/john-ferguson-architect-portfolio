@@ -102,9 +102,9 @@
     - image: images/TOFINO_11.jpg
       description: bulding
   description: >
-    <b>Firm:</b> SMSTUDIO
-    <p>Tofino, BC<br>
-    Under Construction<br>
+    <p>Firm: SMSTUDIO<br>
+    Tofino, BC<br>
+    Under Construction</p><br>
     <p>The Tofino residence is conceived of as a cluster of simple buildings that together form a coherent ensemble. The
     house is comprised of three wings: the entry/guest wing, the communal wing, and the family wing. Each volume is
     carefully placed on the site in order to frame landscape courtyards, to align with curated views, and to preserve the
@@ -151,9 +151,9 @@
       description: bulding
     - image: images/BENNETT_12.jpg
   description: >
-    <b>Firm:</b> SMSTUDIO
-    <p>Vancouver, BC<br>
-    Completed 2023<br>
+    <p>Firm: SMSTUDIO<br>
+    Vancouver, BC<br>
+    Completed 2023</p><br>
     <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
     would better suit their lifestyle. The arrangement of rooms in the house inverts the typical residential layout by placing
     the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows 
@@ -198,9 +198,9 @@
     - image: images/CAPE_PATIO_01.jpg
       description: bulding
   description: >
-    <b>Firm:</b> SMSTUDIO
-    <p>Bowen Island, BC<br>
-    Permits 2023<br>
+    <p>Firm: SMSTUDIO<br>
+    Bowen Island, BC<br>
+    Permits 2023</p><br>
     <p>Designed as a rural home for a growing family of five, the Cape Residence is located on a twenty-acre forested
     site on Cape Roger Curtis on Bowen Island. The house is rigorously organized around a densely planted central
     courtyard, blurring the boundary between landscape and architecture. A large overhanging roof provides a sense of
@@ -241,9 +241,9 @@
     - image: images/LIVERY_03.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA
-    <p>Calgary, AB<br>
-    Completed 2019<br>
+    <p>Firm: MoDA<br>
+    Calgary, AB<br>
+    Completed 2019</p><br>
     <p>In a city that struggles with the banality and sameness of contemporary development, the community of Inglewood exists
     as an anomaly. Inglewood has largely managed to preserve a great number of historic industrial typologies which have
     since been displaced to suburban industrial parks. In recent years, Inglewood has witnessed rapid gentrification as young
@@ -281,9 +281,9 @@
     - image: images/CJCA_SECTION_02.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA
-    <p>Calgary, AB<br>
-    Permits 2022<br>
+    <p>Firm: MoDA<br>
+    Calgary, AB<br>
+    Permits 2022</p><br>
     <p>The Calgary Japanese Community Association (CJCA) wanted to replace their aging facility with a new building
     that would address their declining social, cultural and environmental sustainability.</p>
     <p>Through researching sensitive cultural aspects of Japanese culture and Nikkei identity (Japanese Canadians), we
@@ -322,9 +322,9 @@
     - image: images/CJCA_SECTION_02.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA
-    <p>Winnipeg, MB<br>
-    Completed 2020<br>
+    <p>Firm: MoDA<br>
+    Winnipeg, MB<br>
+    Completed 2020</p><br>
     <p>Conceived as a small shelter, S(hovel) re-imagines an off-the-shelf object of winter as a swirling vortex of mystery
     and intrigue that only reveals its true assembly upon closer inspection. Built from 214 aluminum shovels, 142
     scaffold segments, and 388 scaffold clamps, we challenged ourselves to design a warming hut that could be built and
@@ -371,9 +371,9 @@
     - image: images/ATTABOTICS_06.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA
-    <p>Calgary, AB<br>
-    Permits 2020<br>
+    <p>Firm: MoDA<br>
+    Calgary, AB<br>
+    Permits 2020</p><br>
     <p>When we first met with our client – a robotics design and manufacturing company called Attabotics - they
     made it clear they didn’t want a boring box. They wanted something that would create a collaborative and engaging
     work environment, something that would take respect and harness the potential of a pristine prairie landscape
@@ -417,9 +417,9 @@
     - image: images/FOOD HUB_SECTION_02.jpg
       description: bulding
   description: >
-    <b>Firm:</b> MoDA
-    <p>Edmonton, AB<br>
-    Permits 2020<br>
+    <p>Firm: MoDA<br>
+    Edmonton, AB<br>
+    Permits 2020</p><br>
     <p>Alberta’s economy has been prone to a boom-bust fluctuation of growth and despair for many decades, which
     has a profound effect on the volatility of the real estate market. As such, it is becoming increasingly difficult as a
     small business to find an affordable space to lease, as land owners increasingly are not willing to risk the capital
@@ -460,9 +460,9 @@
     - image: images/COLLECTIVE LIVING_SECTION_03.jpg
       description: bulding
   description: >
-    <b>Studio:</b> M.Arch Studio 5
-    <p>Barcelona, Spain<br>
-    Supervisor: Rafael Gómez-Moriana<br>
+    <p>Studio: M.Arch Studio 5<br>
+    Barcelona, Spain<br>
+    Supervisor: Rafael Gómez-Moriana</p><br>
     <p>“The worker is at home when he is not working, and not at home when he is working” - Marx’s Capital p. 326.</p>
     <p>Labour in our society is becoming increasingly immaterial. The domicile itself is now a cognitive factory; no longer
     defined by the 9-to-5 workday and no longer tied to the office, WFH has eroded one of the last remaining
@@ -473,3 +473,64 @@
     <p>In addition, conventions of private ownership, nuclear family structures, and individual living are no longer totalistic -
     facing economic pressures, communities are exploring new approaches to domestic relations. What could a model for a
     more collective and collaborative living space could look like?</p><br>
+- name: CITY OF THE SPECTACLE
+  slug: city-spectacle
+  cover_image:
+    image: images/CAVITY_COVER.jpg
+    description: bulding
+  images:
+    - image: images/CAVITY_01.jpg
+      description: bulding
+    - image: images/CAVITY_COLLAGE.jpg
+      description: bulding
+    - image: images/CAVITY_SITE SECTION.jpg
+      description: bulding
+    - image: images/CAVITY_06.jpg
+      description: bulding
+    - image: images/CAVITY_03.jpg
+      description: bulding
+    - image: images/CAVITY_04.jpg
+      description: bulding
+    - image: images/CAVITY_SECTION_01.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_01.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_02.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_03.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_04.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_05.jpg
+      description: bulding
+    - image: images/CAVITY_PLAN_06.jpg
+      description: bulding
+    - image: images/CAVITY_AXO_01.jpg
+      description: bulding
+    - image: images/CAVITY_AXO_02.jpg
+      description: bulding
+    - image: images/CAVITY_AXO_03.jpg
+      description: bulding
+    - image: images/CAVITY_AXO_04.jpg
+      description: bulding
+    - image: images/CAVITY_02.jpg
+      description: bulding
+    - image: images/CAVITY_05.jpg
+      description: bulding
+  description: >
+    <p>Studio: M.Arch Studio 3<br>
+    Calgary, AB<br>
+    Supervisor: Josh Taron</p><br>
+    <p>The urban fabric of the contemporary neoliberal city is the disembowelment of collective form through speculative
+    development and the commodification of real estate. The project is concerned with two broad themes: interiority and
+    texture. The first is the hyper-internalization of the city, where private interest and profit-obsessed design has rendered the
+    exterior condition of the city entirely sterile and abandoned. The city is understood as a manifestation of capital desire,
+    where maximization and speculative economies have come to dominate the landscape. Architecture and the city have
+    become liminal devices: fiscal imperatives of landscape production.</p>
+    <p>The project segregates its citizens from this abandoned environ, resulting in a mode of inhabitation where every
+    aspect of life is privatized and monetized as a subscription. In lieu of Public space, privately accessible outdoor space is
+    projected into the tower block in spaces of lesser profitability. The resulting network of junk spaces left abandoned and
+    neglected by the alienated occupants form a reverent monument to an irreverent system born out of myopic
+    prescience. Crisscrossing and punctuating the terminal transept are a series of walkways, a harkening back to earlier
+    attempts to internalize the city through the stratification of public space through +15’ networks.</p><br>
+    
