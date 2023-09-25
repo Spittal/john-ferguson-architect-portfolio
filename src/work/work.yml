@@ -75,7 +75,7 @@
       description: bulding
     - image: images/TOFINO_SECTION.png
       description: bulding
-    - image: images/TOFINO_LANDSCAOPE.png
+    - image: images/TOFINO_LANDSCAPE.png
       description: bulding
     - image: images/TOFINO_DETAILS.png
       description: bulding
@@ -83,11 +83,11 @@
       description: bulding
     - image: images/TOFINO_02.jpg
       description: bulding
-    - image: images/TOFINO_03.jpg
+    - image: images/TOFINO_03.png
       description: bulding
-    - image: images/TOFINO_04.jpg
+    - image: images/TOFINO_04.png
       description: bulding
-    - image: images/TOFINO_06.jpg
+    - image: images/TOFINO_06.png
       description: bulding
     - image: images/TOFINO_05.jpg
       description: bulding
@@ -179,23 +179,21 @@
       description: bulding
     - image: images/CAPE_SECTION_03.png
       description: bulding
-    - image: images/CAPE_PATIO_03.jpg
+    - image: images/CAPE_PATIO 3.jpg
       description: bulding
-    - image: images/CAPE_HALLWAY_01.jpg
+    - image: images/CAPE_HALLWAY 1.jpg
       description: bulding
-    - image: images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_HALLWAY 2.jpg
       description: bulding
-    - image: images/CAPE_HALLWAY_02.jpg
+    - image: images/CAPE_KITCHEN 1.jpg
       description: bulding
-    - image: images/CAPE_KITCHEN_01.jpg
+    - image: images/CAPE_LIVING 2.jpg
       description: bulding
-    - image: images/CAPE_LIVING_02.jpg
+    - image: images/CAPE_LIVING 1.jpg
       description: bulding
-    - image: images/CAPE_LIVING_01.jpg
+    - image: images/CAPE_PATIO 2.jpg
       description: bulding
-    - image: images/CAPE_PATIO_02.jpg
-      description: bulding
-    - image: images/CAPE_PATIO_01.jpg
+    - image: images/CAPE_PATIO 1.jpg
       description: bulding
   description: >
     <p>Firm: SMSTUDIO<br>
@@ -224,9 +222,7 @@
       description: bulding
     - image: images/LIVERY_DIAGRAM_03.jpg
       description: bulding
-    - image: images/LIVERY_01.jpg
-      description: bulding
-    - image: images/LIVERY_09.jpg
+    - image: images/LIVERY_DETAILS.jpg
       description: bulding
     - image: images/LIVERY_02.jpg
       description: bulding
@@ -239,6 +235,10 @@
     - image: images/LIVERY_08.jpg
       description: bulding
     - image: images/LIVERY_03.jpg
+      description: bulding
+    - image: images/LIVERY_01.jpg
+      description: bulding
+    - image: images/LIVERY_09.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -301,25 +301,15 @@
     image: images/SHOVEL_COVER.jpg
     description: bulding
   images:
-    - image: images/CJCA_DIAGRAM_01.jpg
+    - image: images/SHOVEL_01.jpg
       description: bulding
-    - image: images/CJCA_DIAGRAM_02.jpg
+    - image: images/SHOVEL_02.jpg
       description: bulding
-    - image: images/CJCA_DIAGRAM_03.jpg
+    - image: images/SHOVEL_03.jpg
       description: bulding
-    - image: images/CJCA_01.jpg
+    - image: images/SHOVEL_04.jpg
       description: bulding
-    - image: images/CJCA_02.jpg
-      description: bulding
-    - image: images/CJCA_03.jpg
-      description: bulding
-    - image: images/CJCA_PLAN_01.jpg
-      description: bulding
-    - image: images/CJCA_PLAN_02.jpg
-      description: bulding
-    - image: images/CJCA_SECTION_01.jpg
-      description: bulding
-    - image: images/CJCA_SECTION_02.jpg
+    - image: images/SHOVEL_05.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -447,17 +437,17 @@
       description: bulding
     - image: images/COLLECTIVE LIVING_BEDROOM.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_01.jpg
+    - image: images/COLLECTIVE LIVING_PLAN_01.png
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_02.jpg
+    - image: images/COLLECTIVE LIVING_PLAN_02.png
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_03.jpg
+    - image: images/COLLECTIVE LIVING_PLAN_03.png
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_01.jpg
+    - image: images/COLLECTIVE LIVING_SECTION_01.png
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_02.jpg
+    - image: images/COLLECTIVE LIVING_SECTION_02.png
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_03.jpg
+    - image: images/COLLECTIVE LIVING_SECTION_03.png
       description: bulding
   description: >
     <p>Studio: M.Arch Studio 5<br>
