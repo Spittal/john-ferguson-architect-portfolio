@@ -29,9 +29,9 @@
   --cursor-right: url("/arrows/Forward-V2.svg"), auto;
   --cursor-expand: url("/arrows/Expand-V2.svg"), auto;
 
-  --font-size-1: 4rem;
+  --font-size-1: 3rem;
   --font-size-2: 1.5rem;
-  --font-size-3: 2rem;
+  --font-size-3: 1.5rem;
 
   --screen-md: 1000px;
 }
@@ -78,11 +78,11 @@ a {
 
 @media (min-width: 1000px) {
   :root {
-    --spacing-md: 2.5rem;
+    --spacing-md: 4rem;
 
-    --font-size-1: 3rem;
-    --font-size-2: 2rem;
-    --font-size-3: 1.4em;
+    --font-size-1: 4rem;
+    --font-size-2: 3rem;
+    --font-size-3: 2em;
   }
 }
 
