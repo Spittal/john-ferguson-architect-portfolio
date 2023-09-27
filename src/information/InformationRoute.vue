@@ -2,7 +2,7 @@
   <div class="information-grid">
     <div class="information-block">
       <h2>About</h2>
-      <p>A compassionate, creative designer with 6 years of experience looking to join a team that takes an collaborative, multidisciplinary approach to architecture and design. 
+      <p>A compassionate, creative designer with 6 years of experience looking to join a team that takes an collaborative, multidisciplinary approach to architecture and design.
       </p>
     </div>
     <div class="information-block">
@@ -102,12 +102,13 @@
 }
 
 h2 {
-  border-bottom: var(--spacing-xs) solid var(--color-text);
+	border-bottom: var(--spacing-xs) solid var(--color-text);
 }
 
 @media (min-width: 1000px) {
-  .information-grid {
-    grid-template-columns: repeat(3, 1fr);
+	.information-grid {
+		grid-template-columns: repeat(3, 1fr);
+		grid-template-rows: masonry;
   }
 }
 

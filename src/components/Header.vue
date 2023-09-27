@@ -1,6 +1,6 @@
 <template>
 <header>
-  <RouterLink class="home-navigation" :to="{ name:'home' }"><h1>John Ferguson</h1></RouterLink>
+  <RouterLink class="home-navigation" :to="{ name:'home' }"><h1>John WJ Ferguson</h1></RouterLink>
 
   <nav>
     <RouterLink :to="{ name:'work-index' }"><h1>Work</h1></RouterLink>

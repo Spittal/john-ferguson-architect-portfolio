@@ -32,7 +32,7 @@ const index = computed(() => {
       <div class="title"><span class="mobile-number">{{ index }}</span> {{ work.name }}</div>
       <div v-html="work.description"></div>
     </div>
-    <ImageCarousel class="carousel" :images="work.images" work />
+    <ImageCarousel :images="work.images" work />
   </div>
 </template>
 
