@@ -31,7 +31,7 @@ const currentImage = computed(() => {
 
 function getSmallImage (image: string) {
   const urlParts = image.split('.');
-  return urlParts[0] + '-sm' + urlParts[1];
+  return urlParts[0] + '-sm.' + urlParts[1];
 }
 
 function nextImage () {

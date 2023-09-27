@@ -7,6 +7,11 @@ function formatIndex (index: number) {
   return (nonZeroINdex > 9) ? `${nonZeroINdex}` : `0${nonZeroINdex}`;
 }
 
+function getSmallImage (image: string) {
+  const urlParts = image.split('.');
+  return urlParts[0] + '-sm.' + urlParts[1];
+}
+
 const background = ref<WorkImage>();
 function changeBg(image: WorkImage) {
   background.value = image;
@@ -26,7 +31,7 @@ function changeBg(image: WorkImage) {
     </h2>
   </div>
   <div v-if="background" class="background-image">
-    <img :src="background.image" :alt="background.description">
+    <img :src="getSmallImage(background.image)" :alt="background.description">
   </div>
 </template>
 
@@ -35,7 +40,7 @@ function changeBg(image: WorkImage) {
   display: flex;
   flex-direction: column;
   align-items: start;
-  gap: var(--spacing-xs);
+  gap: var(--spacing-sm);
 
   & .number {
     margin-right: var(--spacing-md);

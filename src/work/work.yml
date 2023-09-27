@@ -4,7 +4,7 @@
     image: images/FOREST HOUSE_COVER.jpg
     description: bulding
   images:
-    - image: images/FOREST HOUSE_PLAN.png
+    - image: images/FOREST HOUSE_PLAN.jpg
       description: bulding
     - image: images/FOREST HOUSE_SECTION_01.jpg
       description: bulding
@@ -44,15 +44,15 @@
     <p>Firm: SMSTUDIO<br>
     Bowen Island, BC<br>
     Completed 2023</p><br>
-    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was 
-    designed for a young family of three seeking a lifestyle change from city living. The clients wanted their 
+    <p>Perched upon a bedrock outcropping in the dense rainforest of Bowen Island, the Forest House house was
+    designed for a young family of three seeking a lifestyle change from city living. The clients wanted their
     children to grow up in nature, but also wanted to have a refuge from it in the wetter, winter months.</p>
-    <p>Careful attention was paid to minimize site impact and give the house a light footprint. The concrete foundation 
-    at either end of the house is scribed tight to the granite bedrock, anchoring the house to the site and allowing 
+    <p>Careful attention was paid to minimize site impact and give the house a light footprint. The concrete foundation
+    at either end of the house is scribed tight to the granite bedrock, anchoring the house to the site and allowing
     it to span between the rocks and float above the ground beneath.</p>
     <p>Natural materials such as Douglas Fir plywood and Western Red Cedar are used throughout the house to reference
     the native trees of the region and add a sense of warmth. Interior finishings are minimal and carefully curated to
-    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in - always changing 
+    create a neutral palette and a sense of calmness. Skylights allow natural light to filter in - always changing
     throughout the day and providing framed views of the treetops above.</p>
     With Jennifer Bassett, Teague McCrae<br>
     Photos by Luiz Valdizon<br>
@@ -63,31 +63,31 @@
     image: images/TOFINO_COVER.jpg
     description: bulding
   images:
-    - image: images/TOFINO_FLOOR PLAN_01.png
+    - image: images/TOFINO_FLOOR PLAN_01.jpg
       description: bulding
-    - image: images/TOFINO_FLOOR PLAN_02.png
+    - image: images/TOFINO_FLOOR PLAN_02.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_01.png
+    - image: images/TOFINO_ELEVATION_01.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_02.png
+    - image: images/TOFINO_ELEVATION_02.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_03.png
+    - image: images/TOFINO_ELEVATION_03.jpg
       description: bulding
-    - image: images/TOFINO_SECTION.png
+    - image: images/TOFINO_SECTION.jpg
       description: bulding
-    - image: images/TOFINO_LANDSCAPE.png
+    - image: images/TOFINO_LANDSCAPE.jpg
       description: bulding
-    - image: images/TOFINO_DETAILS.png
+    - image: images/TOFINO_DETAILS.jpg
       description: bulding
     - image: images/TOFINO_01.jpg
       description: bulding
     - image: images/TOFINO_02.jpg
       description: bulding
-    - image: images/TOFINO_03.png
+    - image: images/TOFINO_03.jpg
       description: bulding
-    - image: images/TOFINO_04.png
+    - image: images/TOFINO_04.jpg
       description: bulding
-    - image: images/TOFINO_06.png
+    - image: images/TOFINO_06.jpg
       description: bulding
     - image: images/TOFINO_05.jpg
       description: bulding
@@ -111,7 +111,7 @@
     numerous old growth firs and cedars on the property.</p>
     <p>There are a few key elements that define the house. The first is a continuous floating concrete foundation which is
     required to keep the house above tsunami flood levels, and to preserve the delicate marshy rainforest ecosystem of Tofino.
-    The second is the douglas fir timber ceiling structure that is exposed throughout the house, which provides a feeling 
+    The second is the douglas fir timber ceiling structure that is exposed throughout the house, which provides a feeling
     of warmth in an extremely rainy climate. The third are the large windows which frame carefully selected views into the
     landscape, while skylights in every double-height space fill the interiors with natural light in the more overcast months.</p><br>
     With Andrea Gutierrez<br>
@@ -121,11 +121,11 @@
     image: images/BENNETT_COVER.jpg
     description: bulding
   images:
-    - image: images/BENNETT_FLOOR PLAN_03.png
+    - image: images/BENNETT_FLOOR PLAN_03.jpg
       description: bulding
-    - image: images/BENNETT_FLOOR PLAN_01.png
+    - image: images/BENNETT_FLOOR PLAN_01.jpg
       description: bulding
-    - image: images/BENNETT_FLOOR PLAN_02.png
+    - image: images/BENNETT_FLOOR PLAN_02.jpg
       description: bulding
     - image: images/BENNETT_01.jpg
       description: bulding
@@ -156,13 +156,13 @@
     Completed 2023</p><br>
     <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
     would better suit their lifestyle. The arrangement of rooms in the house inverts the typical residential layout by placing
-    the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows 
+    the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows
     the living room to take advantage of views of the adjacent park, Burrard inlet and the North Shore mountains beyond,
     while providing privacy to the inward-facing bedrooms.</p>
     <p>The facade pattern is born out of fire rating requirements and a desire to utilize a generic / lower cost building material in
     an innovative way. The result is a bold, playful facade that plays with light and shadow to create a sense of depth and
     rhythm. The project utilizes LVL beams to span the width of the room without the need for additional supporting
-    columns. Materials such as natural stone, board formed concrete and Douglas Fir are used throughout the project 
+    columns. Materials such as natural stone, board formed concrete and Douglas Fir are used throughout the project
     and create a sense of calm and a neutral backdrop for the owners to show their personality through art and furniture.</p><br>
     With Jennifer Bassett, Teague McCrae<br>
 - name: CAPE RESIDENCE
@@ -171,13 +171,13 @@
     image: images/CAPE_COVER.jpg
     description: bulding
   images:
-    - image: images/CAPE_FLOOR PLAN.png
+    - image: images/CAPE_FLOOR PLAN.jpg
       description: bulding
-    - image: images/CAPE_SECTION_01.png
+    - image: images/CAPE_SECTION_01.jpg
       description: bulding
-    - image: images/CAPE_SECTION_02.png
+    - image: images/CAPE_SECTION_02.jpg
       description: bulding
-    - image: images/CAPE_SECTION_03.png
+    - image: images/CAPE_SECTION_03.jpg
       description: bulding
     - image: images/CAPE_PATIO 3.jpg
       description: bulding
@@ -288,7 +288,7 @@
     that would address their declining social, cultural and environmental sustainability.</p>
     <p>Through researching sensitive cultural aspects of Japanese culture and Nikkei identity (Japanese Canadians), we
     encountered the notion of Kakehashi – a Japanese word for ‘bridge’. This led us towards developing a more inclusive
-    program comprised of various Japanese cultural, social and educational facilities, eight affordable housing units 
+    program comprised of various Japanese cultural, social and educational facilities, eight affordable housing units
     and a daycare. Assembling the various programs around a shared courtyard encourages cross-pollination and
     social interaction amongst the various demographics and generations of the centre’s membership.</p>
     <p>The incomplete oval plan references Ma, the balance of mass and void. The ‘void’ developed into a contemporary
@@ -321,7 +321,7 @@
     disassembled without any permanent fastening.</p>
     <p>Designed for disassembly, S(hovel) is destined for a philanthropic afterlife. Following their brief stint as a
     Warming Hut, the shovels were donated to Take Pride Winnipeg’s Snow Angel Program, a non-profit charity
-    that helps seniors and the infirm with snow removal each year. The scaffolding was rented and returned, as was the 
+    that helps seniors and the infirm with snow removal each year. The scaffolding was rented and returned, as was the
     foundation base.</p><br>
     With David Vera, Anthony Schmidt<br>
 - name: ATTABOTICS HEADQUARTERS
@@ -368,7 +368,7 @@
     made it clear they didn’t want a boring box. They wanted something that would create a collaborative and engaging
     work environment, something that would take respect and harness the potential of a pristine prairie landscape
     site, and something that would challenge the architectural culture of the city.</p>
-    <p>With these asks in mind, we identified three design challenges: how do we accommodate the disparate needs 
+    <p>With these asks in mind, we identified three design challenges: how do we accommodate the disparate needs
     of both office and manufacturing space? How do we take advantage of challenging airport bylaws, which restrict the
     building’s height? And how can the project foster a culture of openness, sharing and collaboration for its users?</p><br>
     With David Vera, Anthony Schmidt<br>
@@ -415,7 +415,7 @@
     small business to find an affordable space to lease, as land owners increasingly are not willing to risk the capital
     investment required to provide such low-return spaces in such a volatile market. Our client tasked us with finding an
     alternative - how can we provide small-scale, affordable commercial spaces to young businesses, while providing
-    them with the flexibility to develop the site in the future? And all the while ensuring that the building is contributing to a 
+    them with the flexibility to develop the site in the future? And all the while ensuring that the building is contributing to a
     resilient and sustainable future.</p>
     <p>We envision a project built entirely of pre-fab, off-the-shelf quonset components, in order to produce a building that
     can be readily erected, expanded upon, and disassembled at the end of its life-cycle. By incorporating principles of circular
@@ -437,17 +437,17 @@
       description: bulding
     - image: images/COLLECTIVE LIVING_BEDROOM.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_01.png
+    - image: images/COLLECTIVE LIVING_PLAN_01.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_02.png
+    - image: images/COLLECTIVE LIVING_PLAN_02.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_03.png
+    - image: images/COLLECTIVE LIVING_PLAN_03.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_01.png
+    - image: images/COLLECTIVE LIVING_SECTION_01.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_02.png
+    - image: images/COLLECTIVE LIVING_SECTION_02.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_03.png
+    - image: images/COLLECTIVE LIVING_SECTION_03.jpg
       description: bulding
   description: >
     <p>Studio: M.Arch Studio 5<br>
@@ -523,4 +523,4 @@
     neglected by the alienated occupants form a reverent monument to an irreverent system born out of myopic
     prescience. Crisscrossing and punctuating the terminal transept are a series of walkways, a harkening back to earlier
     attempts to internalize the city through the stratification of public space through +15’ networks.</p><br>
-    
+
