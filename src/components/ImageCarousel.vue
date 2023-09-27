@@ -43,6 +43,8 @@ function toggleExpand () {
     <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
     <div class="image-container">
       <template v-for="(image, index) in images" :key="image.image">
+          <img style="visibility: hidden;" v-if="currentImageIndex === index - 1" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
+          <img style="visibility: hidden;" v-if="currentImageIndex === index + 1" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
         <Transition>
           <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
         </Transition>
