@@ -107,5 +107,6 @@ a {
     --cursor-left: url("/arrows/Back-V2-White.svg"), auto;
     --cursor-right: url("/arrows/Forward-V2-White.svg"), auto;
     --cursor-expand: url("/arrows/Expand-V2-White.svg"), auto;
+    --cursor-contract: url("/arrows/Contract-V2-White.svg"), auto;
   }
 }
