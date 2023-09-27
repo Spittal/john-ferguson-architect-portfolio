@@ -37,6 +37,7 @@
   --cursor-left: url("/arrows/Back-V2.svg"), auto;
   --cursor-right: url("/arrows/Forward-V2.svg"), auto;
   --cursor-expand: url("/arrows/Expand-V2.svg"), auto;
+  --cursor-contract: url("/arrows/Contract-V2.svg"), auto;
 
   --font-size-1: 3rem;
   --font-size-2: 1.5rem;

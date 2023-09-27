@@ -70,6 +70,7 @@ function toggleExpand () {
 
   <Transition>
     <div class="full-screen-image" v-if="expanded">
+      <div class="background-screen" @click="toggleExpand"></div>
       <div class="full-screen-image-container">
         <img :src="currentImage.image" :alt="currentImage.description" @click="toggleExpand">
         <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
@@ -103,8 +104,16 @@ function toggleExpand () {
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.8);
   padding: var(--spacing-md);
+
+  & .background-screen {
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 
   & .full-screen-image-container {
     position: relative;
@@ -113,7 +122,7 @@ function toggleExpand () {
     & img {
       width: 100%;
       max-height: 90vh;
-      cursor: var(--cursor-expand);
+      cursor: var(--cursor-contract);
     }
   }
 }
