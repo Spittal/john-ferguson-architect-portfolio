@@ -24,8 +24,12 @@
   color-scheme: light dark;
 
   --spacing-xs: 0.25rem;
-  --spacing-sm: 1.3rem;
-  --spacing-md: 5rem;
+  --spacing-sm: 0.75rem;
+  --spacing-md: 2rem;
+
+  --font-size-1: 2rem;
+  --font-size-2: 1.5rem;
+  --font-size-3: 1.5rem;
 
   --border-thickness: 0.2rem;
 
@@ -38,12 +42,6 @@
   --cursor-right: url("/arrows/Forward-V2.svg"), auto;
   --cursor-expand: url("/arrows/Expand-V2.svg"), auto;
   --cursor-contract: url("/arrows/Contract-V2.svg"), auto;
-
-  --font-size-1: 3rem;
-  --font-size-2: 1.5rem;
-  --font-size-3: 1.5rem;
-
-  --screen-md: 1000px;
 }
 
 html {
@@ -87,9 +85,13 @@ a {
   }
 }
 
+/* Desktop Sizes */
 @media (min-width: 1000px) {
   :root {
-    --spacing-md: 4rem;
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 1.3rem;
+    --spacing-md: 5rem;
+
 
     --font-size-1: 4rem;
     --font-size-2: 2.6rem;
@@ -97,6 +99,7 @@ a {
   }
 }
 
+/* Dark Mode Styles */
 @media (prefers-color-scheme: dark) {
   :root {
     --color-text: #FFFFFF;

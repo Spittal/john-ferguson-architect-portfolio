@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, onMounted } from 'vue';
 import workItems from './work.yml';
 import ImageCarousel from '../components/ImageCarousel.vue';
+import { changeTitle } from '../useDocumentTitle';
 
 const props = defineProps<{
   workSlug: string;
@@ -13,6 +14,10 @@ const workIndex = computed(() => {
 const work = computed(() => {
   return workItems[workIndex.value];
 });
+
+onMounted(() => {
+  changeTitle(work.value.name);
+})
 
 const index = computed(() => {
   const nonZeroIndex = workIndex.value + 1;
@@ -43,6 +48,11 @@ const index = computed(() => {
 
 .title {
   margin-bottom: var(--spacing-md);
+  text-transform: uppercase;
+}
+
+.content {
+  margin-bottom: var(--spacing-md);
 }
 
 @media (min-width: 1000px) {
@@ -57,6 +67,7 @@ const index = computed(() => {
     }
   }
   .content {
+    margin-bottom: 0;
     max-width: 40rem;
   }
 
