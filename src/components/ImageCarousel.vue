@@ -57,14 +57,17 @@ function toggleExpand () {
 </script>
 
 <template>
-  <div class="image-container" ref="imageContainerDOMElement" :style="{ height: imageContainerHeight }">
-    <template v-for="(image, index) in images" :key="image.image">
-      <Transition>
-        <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
-      </Transition>
-    </template>
-    <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
-    <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
+  <div class="image-carousel">
+
+    <div class="image-container" ref="imageContainerDOMElement" :style="{ height: imageContainerHeight }">
+      <template v-for="(image, index) in images" :key="image.image">
+        <Transition>
+          <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
+        </Transition>
+      </template>
+      <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
+      <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
+    </div>
     <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
   </div>
 
@@ -146,16 +149,17 @@ function toggleExpand () {
   cursor: var(--cursor-right);
 }
 
+.counter {
+  margin-top: var(--spacing-sm);
+  text-align: center;
+}
+
 @media (min-width: 1000px) {
   .expandable {
     width: 33%;
   }
 }
 
-.counter {
-  font-size: var(--font-size-2);
-  text-align: center;
-}
 
 .v-enter-active, .v-leave-active {
   transition: opacity 0.3s ease;

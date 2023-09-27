@@ -61,7 +61,7 @@ const index = computed(() => {
     display: flex;
     gap: var(--spacing-md);
 
-    &::v-deep(.image-container) {
+    &::v-deep(.image-carousel) {
       margin: 0 auto;
       width: 100rem;
     }
