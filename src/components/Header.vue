@@ -20,6 +20,7 @@ header {
 
 .home-navigation {
   flex: 0 1 10rem;
+
   &:hover {
     border-bottom: var(--spacing-xs) solid transparent;
   }
@@ -39,7 +40,7 @@ nav {
 
 @media (min-width: 1000px) {
   .home-navigation {
-    flex: 1 0 10rem;
+    flex: 0 1 auto;
   }
 
   nav {
