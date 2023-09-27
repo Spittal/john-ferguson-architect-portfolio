@@ -12,9 +12,9 @@ function getSmallImage (image: string) {
   return urlParts[0] + '-sm.' + urlParts[1];
 }
 
-const background = ref<WorkImage>();
-function changeBg(image: WorkImage) {
-  background.value = image;
+const selectedWork = ref<WorkItem>();
+function changeSelectedWork (work: WorkItem) {
+  selectedWork.value = work;
 }
 </script>
 
@@ -23,15 +23,16 @@ function changeBg(image: WorkImage) {
     <h2 v-for="(workItem, index) in workItems" :key="workItem.slug">
       <span class="number">{{ formatIndex(index) }}</span>
       <RouterLink
+        :class="{ '-hover': workItem.slug === selectedWork?.slug }"
         :to="{name: 'work-item', params: { workSlug: workItem.slug }}"
-        @mouseenter="changeBg(workItem.cover_image)"
+        @mouseenter="changeSelectedWork(workItem)"
       >
         {{ workItem.name }}
       </RouterLink>
     </h2>
   </div>
-  <div v-if="background" class="background-image">
-    <img :src="getSmallImage(background.image)" :alt="background.description">
+  <div v-if="selectedWork" class="background-image">
+    <img :src="getSmallImage(selectedWork.cover_image.image)" :alt="selectedWork.cover_image.description">
   </div>
 </template>
 

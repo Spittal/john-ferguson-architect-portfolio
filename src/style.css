@@ -77,7 +77,7 @@ a {
   text-decoration: none;
   border-bottom: var(--border-thickness) solid transparent;
 
-  &:hover {
+  &:hover, &.-hover {
     border-bottom: var(--border-thickness) solid var(--color-text);
   }
 
