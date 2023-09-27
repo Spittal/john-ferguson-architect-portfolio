@@ -58,21 +58,12 @@ const index = computed(() => {
 @media (min-width: 1000px) {
   .work-item-grid {
     margin: 0 auto;
-    display: flex;
+    display: grid;
+    grid-template-columns: auto 1fr 3fr;
     gap: var(--spacing-md);
-
-    &::v-deep(.image-carousel) {
-      margin: 0 auto;
-      width: 100rem;
-    }
   }
   .content {
     margin-bottom: 0;
-    max-width: 40rem;
-  }
-
-  h3 {
-    margin-bottom: var(--spacing-md);
   }
 
   .desktop-number {

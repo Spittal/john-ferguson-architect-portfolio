@@ -1,28 +1,10 @@
 <script setup lang="ts">
-import { computed, onMounted, ref } from 'vue';
+import { computed, ref } from 'vue';
 
 const props = defineProps<{
   images: WorkImage[];
   work?: boolean;
 }>();
-
-const imageContainerDOMElement = ref<HTMLImageElement>();
-const imageContainerHeight = ref<string>();
-function setContainerHeight() {
-  if (!imageContainerDOMElement.value) return;
-  const image = imageContainerDOMElement.value.querySelector('img');
-  if (!image) return;
-  setTimeout(() => {
-    imageContainerHeight.value = image.clientHeight + 'px';
-  }, 100);
-}
-
-onMounted(() => {
-  setContainerHeight();
-  window.addEventListener('resize', () => {
-    setContainerHeight();
-  });
-});
 
 const currentImageIndex = ref(0);
 const currentImage = computed(() => {
@@ -58,8 +40,8 @@ function toggleExpand () {
 
 <template>
   <div class="image-carousel">
-
-    <div class="image-container" ref="imageContainerDOMElement" :style="{ height: imageContainerHeight }">
+    <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
+    <div class="image-container">
       <template v-for="(image, index) in images" :key="image.image">
         <Transition>
           <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
@@ -68,7 +50,6 @@ function toggleExpand () {
       <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
       <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
     </div>
-    <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
   </div>
 
   <Transition>
@@ -84,17 +65,23 @@ function toggleExpand () {
 </template>
 
 <style scoped lang="postcss">
+
+.image-carousel {
+  width: 100%;
+}
 .image-container {
   position: relative;
   width: 100%;
+  height: 50vh;
 
   & img {
     position: absolute;
     width: 100%;
-    max-height: 80vh;
+    max-height: 70vh;
     object-fit: contain;
+    left: 50%;
+    transform: translateX(-50%);
     cursor: var(--cursor-expand);
-    margin: 0;
   }
 }
 
@@ -150,8 +137,8 @@ function toggleExpand () {
 }
 
 .counter {
-  margin-top: var(--spacing-sm);
-  text-align: center;
+  text-align: right;
+  margin-bottom: var(--spacing-sm);
 }
 
 @media (min-width: 1000px) {
