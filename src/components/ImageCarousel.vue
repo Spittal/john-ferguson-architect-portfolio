@@ -1,15 +1,38 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 
 const props = defineProps<{
   images: WorkImage[];
   work?: boolean;
 }>();
 
+const imageContainerDOMElement = ref<HTMLImageElement>();
+const imageContainerHeight = ref<string>();
+function setContainerHeight() {
+  if (!imageContainerDOMElement.value) return;
+  const image = imageContainerDOMElement.value.querySelector('img');
+  if (!image) return;
+  setTimeout(() => {
+    imageContainerHeight.value = image.clientHeight + 'px';
+  }, 100);
+}
+
+onMounted(() => {
+  setContainerHeight();
+  window.addEventListener('resize', () => {
+    setContainerHeight();
+  });
+});
+
 const currentImageIndex = ref(0);
 const currentImage = computed(() => {
   return props.images[currentImageIndex.value];
 });
+
+function getSmallImage (image: string) {
+  const urlParts = image.split('.');
+  return urlParts[0] + '-sm' + urlParts[1];
+}
 
 function nextImage () {
   if (currentImageIndex.value === props.images.length - 1) {
@@ -34,8 +57,12 @@ function toggleExpand () {
 </script>
 
 <template>
-  <div class="image-container">
-    <img :src="currentImage.image" :alt="currentImage.description" @click="toggleExpand">
+  <div class="image-container" ref="imageContainerDOMElement" :style="{ height: imageContainerHeight }">
+    <template v-for="(image, index) in images" :key="image.image">
+      <Transition>
+        <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
+      </Transition>
+    </template>
     <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
     <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
     <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
@@ -55,12 +82,13 @@ function toggleExpand () {
 <style scoped lang="postcss">
 .image-container {
   position: relative;
-  display: inline-block;
+  width: 100%;
 
   & img {
+    position: absolute;
     width: 100%;
-    max-height: 75vh;
-    object-fit: cover;
+    max-height: 80vh;
+    object-fit: contain;
     cursor: var(--cursor-expand);
     margin: 0;
   }

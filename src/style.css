@@ -5,6 +5,12 @@
     url("/fonts/NeueHaasUnicaW1G-Regular.otf") format("opentype");
 }
 
+@font-face {
+  font-family: "TITLE";
+  src:
+    url("/fonts/TITLE.ttf") format("truetype");
+}
+
 :root {
   font-family: NeueHaas, Helvetica, Arial, sans-serif;
   font-size: 62.5%;
@@ -47,6 +53,7 @@ body {
 }
 
 h1 {
+  font-family: TITLE, Helvetica, Arial, sans-serif;
   font-size: var(--font-size-1);
   line-height: 1.3;
   text-transform: uppercase;
