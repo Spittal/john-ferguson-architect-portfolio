@@ -23,7 +23,7 @@
 	<p>Modern Office of Design + Architecture (MoDA)<br>
 	Intern Architect (2016-2020)</p>
     </div>
-	<div class="information-block">
+    <div class="information-block">
       <h2>Volunteering</h2>
       <p>Architects Against Housing Alienation (AAHA)<br>
 	Volunteer (2023-Present)
@@ -44,7 +44,7 @@
 	Advocacy Committee (2011-2014)
 	</p>
     </div>
-      <div class="information-block">
+    <div class="information-block">
       <h2>Publications</h2>
       <p>Western Living: "Architectural Designer of the Year"<br>
       	Simon Montgomery Stuidio (2023)<br>
@@ -90,7 +90,9 @@
 	2016 EVDS Alumni Scholarship<br><br>
 	2016 Shirley Bird Memorial Award<br><br>
 	2015 Queen Elizabeth II Graduate Scholarship<br><br>
-	2015 Alberta Graduate Student Award<br><br>
+	2015 Alberta Graduate Student Award<br>
+       </p>
+    </div>
     <div class="information-block">
       <h2>Professional Awards</h2>
       <p>2023 Western Living Architectural Designer of the Year<br>
