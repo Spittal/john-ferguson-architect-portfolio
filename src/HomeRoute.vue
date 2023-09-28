@@ -9,10 +9,10 @@ import ImageCarousel from './components/ImageCarousel.vue';
         image: 'images/ATTABOTICS_SPLASH.jpg',
         description: 'bulding'
       },
-      {
-        image: 'images/BENNETT_SPLASH.jpg',
-        description: 'bulding'
-      },
+      //{
+        //image: 'images/BENNETT_SPLASH.jpg',
+        //description: 'bulding'
+      //},
       {
         image: 'images/TOFINO_SPLASH.jpg',
         description: 'bulding'
