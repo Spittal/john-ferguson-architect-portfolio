@@ -42,6 +42,7 @@ function toggleExpand () {
 function keydownHandler (event: KeyboardEvent) {
   if (event.code === 'ArrowLeft') previousImage();
   if (event.code === 'ArrowRight') nextImage();
+  if (event.code === 'Escape') expanded.value = false;
 }
 
 let intervalId: number;
