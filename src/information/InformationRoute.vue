@@ -1,5 +1,9 @@
+<script setup lang="ts">
+import '@appnest/masonry-layout';
+</script>
+
 <template>
-  <div class="information-grid">
+  <masonry-layout gap="50">
     <div class="information-block">
       <h2>About</h2>
       <p>A compassionate, creative designer with 6 years of experience looking to join a team that takes an collaborative, multidisciplinary approach to architecture and design.
@@ -103,12 +107,12 @@
 	      <br>
 	2021 Canadian Architect Award of Merit<br>
       	MoDA: Edmonton Food Hub<br>
-	      <br> 
+	      <br>
 	2020 Canadian Archtiect Award of Excellence<br>
       	MoDA: Calgary Japanese Community Centre<br>
 	      <br>
 	2019 Canadian Architect Award of Excellencebr>
-	MoDA: Attbotics Headquarters<br>      
+	MoDA: Attbotics Headquarters<br>
 	      <br>
 	2019 World Architecture Festival Category Winner - Office<br>
       	MoDA: Attabotics Headquarters<br>
@@ -117,7 +121,7 @@
       	MoDA: Attabotics Office Interiors<br>
 	      <br>
 	2019 World Architecture Festival Finalist - Residential<br>
-      	MoDA: Gallery House<br> 
+      	MoDA: Gallery House<br>
 	      <br>
 	2019 Mayor's Urban Design Awards - Office<br>
 	MoDA: Attabotics Headquarters<br>
@@ -126,7 +130,7 @@
       	MoDA: The Livery Shop<br>
 	      <br>
 	2019 Architizer A+ Award Finalist<br>
-      	MoDA: Attabotis Headquarters<br> 
+      	MoDA: Attabotis Headquarters<br>
 	      <br>
 	2018 World Architecture Festival Finalist - Residential<br>
       	MoDA: Lakeview Residence<br>
@@ -155,24 +159,11 @@
 	2017 120 Hours Competition - Honorable Mention
 	</p>
     </div>
-  </div>
+  </masonry-layout>
 </template>
 
 <style scoped>
-.information-grid {
-  display: grid;
-  gap: var(--spacing-md);
-}
-
 h2 {
 	border-bottom: var(--spacing-xs) solid var(--color-text);
 }
-
-@media (min-width: 1000px) {
-	.information-grid {
-		grid-template-columns: repeat(3, 1fr);
-		grid-template-rows: masonry;
-  }
-}
-
 </style>

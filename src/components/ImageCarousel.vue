@@ -70,13 +70,16 @@ function toggleExpand () {
 
 .image-carousel {
   width: 100%;
+  user-select: none;
 }
 .image-container {
   position: relative;
   width: 100%;
   height: 50vh;
+  user-select: none;
 
   & img {
+    user-select: none;
     position: absolute;
     width: 100%;
     max-height: 70vh;
@@ -139,7 +142,6 @@ function toggleExpand () {
 }
 
 .counter {
-  text-align: right;
   margin-bottom: var(--spacing-sm);
 }
 

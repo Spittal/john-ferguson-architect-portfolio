@@ -1,44 +1,44 @@
 - name: FOREST HOUSE
   slug: forest-house
   cover_image:
-    image: images/FOREST HOUSE_COVER.jpg
+    image: /images/FOREST HOUSE_COVER.jpg
     description: bulding
   images:
-    - image: images/FOREST HOUSE_PLAN.jpg
+    - image: /images/FOREST HOUSE_PLAN.jpg
       description: bulding
-    - image: images/FOREST HOUSE_SECTION_01.jpg
+    - image: /images/FOREST HOUSE_SECTION_01.jpg
       description: bulding
-    - image: images/FOREST HOUSE_SECTION_02.jpg
+    - image: /images/FOREST HOUSE_SECTION_02.jpg
       description: bulding
-    - image: images/FOREST HOUSE_SECTION_03.jpg
+    - image: /images/FOREST HOUSE_SECTION_03.jpg
       description: bulding
-    - image: images/FOREST HOUSE_01.jpg
+    - image: /images/FOREST HOUSE_01.jpg
       description: bulding
-    - image: images/FOREST HOUSE_02.jpg
+    - image: /images/FOREST HOUSE_02.jpg
       description: bulding
-    - image: images/FOREST HOUSE_03.jpg
+    - image: /images/FOREST HOUSE_03.jpg
       description: bulding
-    - image: images/FOREST HOUSE_04.jpg
+    - image: /images/FOREST HOUSE_04.jpg
       description: bulding
-    - image: images/FOREST HOUSE_05.jpg
+    - image: /images/FOREST HOUSE_05.jpg
       description: bulding
-    - image: images/FOREST HOUSE_06.jpg
+    - image: /images/FOREST HOUSE_06.jpg
       description: bulding
-    - image: images/FOREST HOUSE_07.jpg
+    - image: /images/FOREST HOUSE_07.jpg
       description: bulding
-    - image: images/FOREST HOUSE_08.jpg
+    - image: /images/FOREST HOUSE_08.jpg
       description: bulding
-    - image: images/FOREST HOUSE_09.jpg
+    - image: /images/FOREST HOUSE_09.jpg
       description: bulding
-    - image: images/FOREST HOUSE_10.jpg
+    - image: /images/FOREST HOUSE_10.jpg
       description: bulding
-    - image: images/FOREST HOUSE_11.jpg
+    - image: /images/FOREST HOUSE_11.jpg
       description: bulding
-    - image: images/FOREST HOUSE_12.jpg
+    - image: /images/FOREST HOUSE_12.jpg
       description: bulding
-    - image: images/FOREST HOUSE_13.jpg
+    - image: /images/FOREST HOUSE_13.jpg
       description: bulding
-    - image: images/FOREST HOUSE_14.jpg
+    - image: /images/FOREST HOUSE_14.jpg
       description: bulding
   description: >
     <p>Firm: SMSTUDIO<br>
@@ -60,46 +60,46 @@
 - name: TOFINO RESIDENCE
   slug: tofino-residence
   cover_image:
-    image: images/TOFINO_COVER.jpg
+    image: /images/TOFINO_COVER.jpg
     description: bulding
   images:
-    - image: images/TOFINO_FLOOR PLAN_01.jpg
+    - image: /images/TOFINO_FLOOR PLAN_01.jpg
       description: bulding
-    - image: images/TOFINO_FLOOR PLAN_02.jpg
+    - image: /images/TOFINO_FLOOR PLAN_02.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_01.jpg
+    - image: /images/TOFINO_ELEVATION_01.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_02.jpg
+    - image: /images/TOFINO_ELEVATION_02.jpg
       description: bulding
-    - image: images/TOFINO_ELEVATION_03.jpg
+    - image: /images/TOFINO_ELEVATION_03.jpg
       description: bulding
-    - image: images/TOFINO_SECTION.jpg
+    - image: /images/TOFINO_SECTION.jpg
       description: bulding
-    - image: images/TOFINO_LANDSCAPE.jpg
+    - image: /images/TOFINO_LANDSCAPE.jpg
       description: bulding
-    - image: images/TOFINO_DETAILS.jpg
+    - image: /images/TOFINO_DETAILS.jpg
       description: bulding
-    - image: images/TOFINO_01.jpg
+    - image: /images/TOFINO_01.jpg
       description: bulding
-    - image: images/TOFINO_02.jpg
+    - image: /images/TOFINO_02.jpg
       description: bulding
-    - image: images/TOFINO_03.jpg
+    - image: /images/TOFINO_03.jpg
       description: bulding
-    - image: images/TOFINO_04.jpg
+    - image: /images/TOFINO_04.jpg
       description: bulding
-    - image: images/TOFINO_06.jpg
+    - image: /images/TOFINO_06.jpg
       description: bulding
-    - image: images/TOFINO_05.jpg
+    - image: /images/TOFINO_05.jpg
       description: bulding
-    - image: images/TOFINO_07.jpg
+    - image: /images/TOFINO_07.jpg
       description: bulding
-    - image: images/TOFINO_08.jpg
+    - image: /images/TOFINO_08.jpg
       description: bulding
-    - image: images/TOFINO_09.jpg
+    - image: /images/TOFINO_09.jpg
       description: bulding
-    - image: images/TOFINO_10.jpg
+    - image: /images/TOFINO_10.jpg
       description: bulding
-    - image: images/TOFINO_11.jpg
+    - image: /images/TOFINO_11.jpg
       description: bulding
   description: >
     <p>Firm: SMSTUDIO<br>
@@ -118,38 +118,38 @@
 - name: BENNETT RESIDENCE
   slug: bennett-residence
   cover_image:
-    image: images/BENNETT_COVER.jpg
+    image: /images/BENNETT_COVER.jpg
     description: bulding
   images:
-    - image: images/BENNETT_FLOOR PLAN_03.jpg
+    - image: /images/BENNETT_FLOOR PLAN_03.jpg
       description: bulding
-    - image: images/BENNETT_FLOOR PLAN_01.jpg
+    - image: /images/BENNETT_FLOOR PLAN_01.jpg
       description: bulding
-    - image: images/BENNETT_FLOOR PLAN_02.jpg
+    - image: /images/BENNETT_FLOOR PLAN_02.jpg
       description: bulding
-    - image: images/BENNETT_01.jpg
+    - image: /images/BENNETT_01.jpg
       description: bulding
-    - image: images/BENNETT_02.jpg
+    - image: /images/BENNETT_02.jpg
       description: bulding
-    - image: images/BENNETT_04.jpg
+    - image: /images/BENNETT_04.jpg
       description: bulding
-    - image: images/BENNETT_03.jpg
+    - image: /images/BENNETT_03.jpg
       description: bulding
-    - image: images/BENNETT_06.jpg
+    - image: /images/BENNETT_06.jpg
       description: bulding
-    - image: images/BENNETT_05.jpg
+    - image: /images/BENNETT_05.jpg
       description: bulding
-    - image: images/BENNETT_07.jpg
+    - image: /images/BENNETT_07.jpg
       description: bulding
-    - image: images/BENNETT_08.jpg
+    - image: /images/BENNETT_08.jpg
       description: bulding
-    - image: images/BENNETT_09.jpg
+    - image: /images/BENNETT_09.jpg
       description: bulding
-    - image: images/BENNETT_10.jpg
+    - image: /images/BENNETT_10.jpg
       description: bulding
-    - image: images/BENNETT_11.jpg
+    - image: /images/BENNETT_11.jpg
       description: bulding
-    - image: images/BENNETT_12.jpg
+    - image: /images/BENNETT_12.jpg
   description: >
     <p>Firm: SMSTUDIO<br>
     Vancouver, BC<br>
@@ -168,32 +168,32 @@
 - name: CAPE RESIDENCE
   slug: cape-residence
   cover_image:
-    image: images/CAPE_COVER.jpg
+    image: /images/CAPE_COVER.jpg
     description: bulding
   images:
-    - image: images/CAPE_FLOOR PLAN.jpg
+    - image: /images/CAPE_FLOOR PLAN.jpg
       description: bulding
-    - image: images/CAPE_SECTION_01.jpg
+    - image: /images/CAPE_SECTION_01.jpg
       description: bulding
-    - image: images/CAPE_SECTION_02.jpg
+    - image: /images/CAPE_SECTION_02.jpg
       description: bulding
-    - image: images/CAPE_SECTION_03.jpg
+    - image: /images/CAPE_SECTION_03.jpg
       description: bulding
-    - image: images/CAPE_PATIO 3.jpg
+    - image: /images/CAPE_PATIO 3.jpg
       description: bulding
-    - image: images/CAPE_HALLWAY 1.jpg
+    - image: /images/CAPE_HALLWAY 1.jpg
       description: bulding
-    - image: images/CAPE_HALLWAY 2.jpg
+    - image: /images/CAPE_HALLWAY 2.jpg
       description: bulding
-    - image: images/CAPE_KITCHEN 1.jpg
+    - image: /images/CAPE_KITCHEN 1.jpg
       description: bulding
-    - image: images/CAPE_LIVING 2.jpg
+    - image: /images/CAPE_LIVING 2.jpg
       description: bulding
-    - image: images/CAPE_LIVING 1.jpg
+    - image: /images/CAPE_LIVING 1.jpg
       description: bulding
-    - image: images/CAPE_PATIO 2.jpg
+    - image: /images/CAPE_PATIO 2.jpg
       description: bulding
-    - image: images/CAPE_PATIO 1.jpg
+    - image: /images/CAPE_PATIO 1.jpg
       description: bulding
   description: >
     <p>Firm: SMSTUDIO<br>
@@ -213,32 +213,32 @@
 - name: LIVERY SHOP
   slug: livery-shop
   cover_image:
-    image: images/LIVERY_COVER.jpg
+    image: /images/LIVERY_COVER.jpg
     description: bulding
   images:
-    - image: images/LIVERY_DIAGRAM_01.jpg
+    - image: /images/LIVERY_DIAGRAM_01.jpg
       description: bulding
-    - image: images/LIVERY_DIAGRAM_02.jpg
+    - image: /images/LIVERY_DIAGRAM_02.jpg
       description: bulding
-    - image: images/LIVERY_DIAGRAM_03.jpg
+    - image: /images/LIVERY_DIAGRAM_03.jpg
       description: bulding
-    - image: images/LIVERY_DETAILS.jpg
+    - image: /images/LIVERY_DETAILS.jpg
       description: bulding
-    - image: images/LIVERY_02.jpg
+    - image: /images/LIVERY_02.jpg
       description: bulding
-    - image: images/LIVERY_04.jpg
+    - image: /images/LIVERY_04.jpg
       description: bulding
-    - image: images/LIVERY_05.jpg
+    - image: /images/LIVERY_05.jpg
       description: bulding
-    - image: images/LIVERY_07.jpg
+    - image: /images/LIVERY_07.jpg
       description: bulding
-    - image: images/LIVERY_08.jpg
+    - image: /images/LIVERY_08.jpg
       description: bulding
-    - image: images/LIVERY_03.jpg
+    - image: /images/LIVERY_03.jpg
       description: bulding
-    - image: images/LIVERY_01.jpg
+    - image: /images/LIVERY_01.jpg
       description: bulding
-    - image: images/LIVERY_09.jpg
+    - image: /images/LIVERY_09.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -257,28 +257,28 @@
 - name: CALGARY JAPANESE COMMUNITY CENTRE
   slug: cjca
   cover_image:
-    image: images/CJCA_COVER.jpg
+    image: /images/CJCA_COVER.jpg
     description: bulding
   images:
-    - image: images/CJCA_02.jpg
+    - image: /images/CJCA_02.jpg
       description: bulding
-    - image: images/CJCA_01.jpg
+    - image: /images/CJCA_01.jpg
       description: bulding
-    - image: images/CJCA_03.jpg
+    - image: /images/CJCA_03.jpg
       description: bulding
-    - image: images/CJCA_DIAGRAM_01.jpg
+    - image: /images/CJCA_DIAGRAM_01.jpg
       description: bulding
-    - image: images/CJCA_DIAGRAM_02.jpg
+    - image: /images/CJCA_DIAGRAM_02.jpg
       description: bulding
-    - image: images/CJCA_DIAGRAM_03.jpg
+    - image: /images/CJCA_DIAGRAM_03.jpg
       description: bulding
-    - image: images/CJCA_PLAN_01.jpg
+    - image: /images/CJCA_PLAN_01.jpg
       description: bulding
-    - image: images/CJCA_PLAN_02.jpg
+    - image: /images/CJCA_PLAN_02.jpg
       description: bulding
-    - image: images/CJCA_SECTION_01.jpg
+    - image: /images/CJCA_SECTION_01.jpg
       description: bulding
-    - image: images/CJCA_SECTION_02.jpg
+    - image: /images/CJCA_SECTION_02.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -298,18 +298,18 @@
 - name: SHOVEL WARMING HUT INSTALLATION
   slug: shovel
   cover_image:
-    image: images/SHOVEL_COVER.jpg
+    image: /images/SHOVEL_COVER.jpg
     description: bulding
   images:
-    - image: images/SHOVEL_01.jpg
+    - image: /images/SHOVEL_01.jpg
       description: bulding
-    - image: images/SHOVEL_02.jpg
+    - image: /images/SHOVEL_02.jpg
       description: bulding
-    - image: images/SHOVEL_03.jpg
+    - image: /images/SHOVEL_03.jpg
       description: bulding
-    - image: images/SHOVEL_04.jpg
+    - image: /images/SHOVEL_04.jpg
       description: bulding
-    - image: images/SHOVEL_05.jpg
+    - image: /images/SHOVEL_05.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -327,38 +327,38 @@
 - name: ATTABOTICS HEADQUARTERS
   slug: attabotics-hq
   cover_image:
-    image: images/ATTABOTICS_COVER.jpg
+    image: /images/ATTABOTICS_COVER.jpg
     description: bulding
   images:
-    - image: images/ATTABOTICS_01.jpg
+    - image: /images/ATTABOTICS_01.jpg
       description: bulding
-    - image: images/ATTABOTICS_02.jpg
+    - image: /images/ATTABOTICS_02.jpg
       description: bulding
-    - image: images/ATTABOTICS_03.jpg
+    - image: /images/ATTABOTICS_03.jpg
       description: bulding
-    - image: images/ATTABOTICS_04.jpg
+    - image: /images/ATTABOTICS_04.jpg
       description: bulding
-    - image: images/ATTABOTICS_05.jpg
+    - image: /images/ATTABOTICS_05.jpg
       description: bulding
-    - image: images/ATTABOTICS_MODEL_01.jpg
+    - image: /images/ATTABOTICS_MODEL_01.jpg
       description: bulding
-    - image: images/ATTABOTICS_MODEL_02.jpg
+    - image: /images/ATTABOTICS_MODEL_02.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_01.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_01.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_02.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_02.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_03.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_03.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_04.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_04.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_05.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_05.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_06.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_06.jpg
       description: bulding
-    - image: images/ATTABOTICS_DIAGRAM_07.jpg
+    - image: /images/ATTABOTICS_DIAGRAM_07.jpg
       description: bulding
-    - image: images/ATTABOTICS_06.jpg
+    - image: /images/ATTABOTICS_06.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -375,36 +375,36 @@
 - name: EDMONTON FOOD HUB
   slug: food-hub
   cover_image:
-    image: images/FOOD HUB_COVER.jpg
+    image: /images/FOOD HUB_COVER.jpg
     description: bulding
   images:
-    - image: images/FOOD HUB_01.jpg
+    - image: /images/FOOD HUB_01.jpg
       description: bulding
-    - image: images/FOOD HUB_02.jpg
+    - image: /images/FOOD HUB_02.jpg
       description: bulding
-    - image: images/FOOD HUB_03.jpg
+    - image: /images/FOOD HUB_03.jpg
       description: bulding
-    - image: images/FOOD HUB_04.jpg
+    - image: /images/FOOD HUB_04.jpg
       description: bulding
-    - image: images/FOOD HUB_05.jpg
+    - image: /images/FOOD HUB_05.jpg
       description: bulding
-    - image: images/FOOD HUB_06.jpg
+    - image: /images/FOOD HUB_06.jpg
       description: bulding
-    - image: images/FOOD HUB_07.jpg
+    - image: /images/FOOD HUB_07.jpg
       description: bulding
-    - image: images/FOOD HUB_DIAGRAM_01.jpg
+    - image: /images/FOOD HUB_DIAGRAM_01.jpg
       description: bulding
-    - image: images/FOOD HUB_DIAGRAM_02.jpg
+    - image: /images/FOOD HUB_DIAGRAM_02.jpg
       description: bulding
-    - image: images/FOOD HUB_DIAGRAM_03.jpg
+    - image: /images/FOOD HUB_DIAGRAM_03.jpg
       description: bulding
-    - image: images/FOOD HUB_PLAN_01.jpg
+    - image: /images/FOOD HUB_PLAN_01.jpg
       description: bulding
-    - image: images/FOOD HUB_PLAN_02.jpg
+    - image: /images/FOOD HUB_PLAN_02.jpg
       description: bulding
-    - image: images/FOOD HUB_SECTION_01.jpg
+    - image: /images/FOOD HUB_SECTION_01.jpg
       description: bulding
-    - image: images/FOOD HUB_SECTION_02.jpg
+    - image: /images/FOOD HUB_SECTION_02.jpg
       description: bulding
   description: >
     <p>Firm: MoDA<br>
@@ -424,30 +424,30 @@
 - name: A MODEL FOR COLLECTIVE LIVING
   slug: co-living
   cover_image:
-    image: images/COLLECTIVE LIVING_COVER.jpg
+    image: /images/COLLECTIVE LIVING_COVER.jpg
     description: bulding
   images:
-    - image: images/COLLECTIVE LIVING_COVER.jpg
+    - image: /images/COLLECTIVE LIVING_COVER.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_EXTERIOR.jpg
+    - image: /images/COLLECTIVE LIVING_EXTERIOR.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_LIVING.jpg
+    - image: /images/COLLECTIVE LIVING_LIVING.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PATIO.jpg
+    - image: /images/COLLECTIVE LIVING_PATIO.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_BEDROOM.jpg
+    - image: /images/COLLECTIVE LIVING_BEDROOM.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_01.jpg
+    - image: /images/COLLECTIVE LIVING_PLAN_01.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_02.jpg
+    - image: /images/COLLECTIVE LIVING_PLAN_02.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_PLAN_03.jpg
+    - image: /images/COLLECTIVE LIVING_PLAN_03.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_01.jpg
+    - image: /images/COLLECTIVE LIVING_SECTION_01.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_02.jpg
+    - image: /images/COLLECTIVE LIVING_SECTION_02.jpg
       description: bulding
-    - image: images/COLLECTIVE LIVING_SECTION_03.jpg
+    - image: /images/COLLECTIVE LIVING_SECTION_03.jpg
       description: bulding
   description: >
     <p>Studio: M.Arch Studio 5<br>
@@ -466,46 +466,46 @@
 - name: CITY OF THE SPECTACLE
   slug: city-spectacle
   cover_image:
-    image: images/CAVITY_COVER.jpg
+    image: /images/CAVITY_COVER.jpg
     description: bulding
   images:
-    - image: images/CAVITY_01.jpg
+    - image: /images/CAVITY_01.jpg
       description: bulding
-    - image: images/CAVITY_COLLAGE.jpg
+    - image: /images/CAVITY_COLLAGE.jpg
       description: bulding
-    - image: images/CAVITY_SITE SECTION.jpg
+    - image: /images/CAVITY_SITE SECTION.jpg
       description: bulding
-    - image: images/CAVITY_06.jpg
+    - image: /images/CAVITY_06.jpg
       description: bulding
-    - image: images/CAVITY_03.jpg
+    - image: /images/CAVITY_03.jpg
       description: bulding
-    - image: images/CAVITY_04.jpg
+    - image: /images/CAVITY_04.jpg
       description: bulding
-    - image: images/CAVITY_SECTION_01.jpg
+    - image: /images/CAVITY_SECTION_01.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_01.jpg
+    - image: /images/CAVITY_PLAN_01.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_02.jpg
+    - image: /images/CAVITY_PLAN_02.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_03.jpg
+    - image: /images/CAVITY_PLAN_03.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_04.jpg
+    - image: /images/CAVITY_PLAN_04.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_05.jpg
+    - image: /images/CAVITY_PLAN_05.jpg
       description: bulding
-    - image: images/CAVITY_PLAN_06.jpg
+    - image: /images/CAVITY_PLAN_06.jpg
       description: bulding
-    - image: images/CAVITY_AXO_01.jpg
+    - image: /images/CAVITY_AXO_01.jpg
       description: bulding
-    - image: images/CAVITY_AXO_02.jpg
+    - image: /images/CAVITY_AXO_02.jpg
       description: bulding
-    - image: images/CAVITY_AXO_03.jpg
+    - image: /images/CAVITY_AXO_03.jpg
       description: bulding
-    - image: images/CAVITY_AXO_04.jpg
+    - image: /images/CAVITY_AXO_04.jpg
       description: bulding
-    - image: images/CAVITY_02.jpg
+    - image: /images/CAVITY_02.jpg
       description: bulding
-    - image: images/CAVITY_05.jpg
+    - image: /images/CAVITY_05.jpg
       description: bulding
   description: >
     <p>Studio: M.Arch Studio 3<br>
