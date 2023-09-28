@@ -115,56 +115,56 @@
     of warmth in an extremely rainy climate. The third are the large windows which frame carefully selected views into the
     landscape, while skylights in every double-height space fill the interiors with natural light in the more overcast months.</p><br>
     With Andrea Gutierrez<br>
-- name: BENNETT RESIDENCE
-  slug: bennett-residence
-  cover_image:
-    image: /images/BENNETT_COVER.jpg
-    description: bulding
-  images:
-    - image: /images/BENNETT_FLOOR PLAN_03.jpg
-      description: bulding
-    - image: /images/BENNETT_FLOOR PLAN_01.jpg
-      description: bulding
-    - image: /images/BENNETT_FLOOR PLAN_02.jpg
-      description: bulding
-    - image: /images/BENNETT_01.jpg
-      description: bulding
-    - image: /images/BENNETT_02.jpg
-      description: bulding
-    - image: /images/BENNETT_04.jpg
-      description: bulding
-    - image: /images/BENNETT_03.jpg
-      description: bulding
-    - image: /images/BENNETT_06.jpg
-      description: bulding
-    - image: /images/BENNETT_05.jpg
-      description: bulding
-    - image: /images/BENNETT_07.jpg
-      description: bulding
-    - image: /images/BENNETT_08.jpg
-      description: bulding
-    - image: /images/BENNETT_09.jpg
-      description: bulding
-    - image: /images/BENNETT_10.jpg
-      description: bulding
-    - image: /images/BENNETT_11.jpg
-      description: bulding
-    - image: /images/BENNETT_12.jpg
-  description: >
-    <p>Firm: SMSTUDIO<br>
-    Vancouver, BC<br>
-    Completed 2023</p><br>
-    <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
-    would better suit their lifestyle. The arrangement of rooms in the house inverts the typical residential layout by placing
-    the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows
-    the living room to take advantage of views of the adjacent park, Burrard inlet and the North Shore mountains beyond,
-    while providing privacy to the inward-facing bedrooms.</p>
-    <p>The facade pattern is born out of fire rating requirements and a desire to utilize a generic / lower cost building material in
-    an innovative way. The result is a bold, playful facade that plays with light and shadow to create a sense of depth and
-    rhythm. The project utilizes LVL beams to span the width of the room without the need for additional supporting
-    columns. Materials such as natural stone, board formed concrete and Douglas Fir are used throughout the project
-    and create a sense of calm and a neutral backdrop for the owners to show their personality through art and furniture.</p><br>
-    With Jennifer Bassett, Teague McCrae<br>
+#- name: BENNETT RESIDENCE
+#  slug: bennett-residence
+#  cover_image:
+#    image: /images/BENNETT_COVER.jpg
+#    description: bulding
+#  images:
+#    - image: /images/BENNETT_FLOOR PLAN_03.jpg
+#      description: bulding
+#    - image: /images/BENNETT_FLOOR PLAN_01.jpg
+#      description: bulding
+#    - image: /images/BENNETT_FLOOR PLAN_02.jpg
+#      description: bulding
+#    - image: /images/BENNETT_01.jpg
+#      description: bulding
+#    - image: /images/BENNETT_02.jpg
+#      description: bulding
+#    - image: /images/BENNETT_04.jpg
+#      description: bulding
+#    - image: /images/BENNETT_03.jpg
+#      description: bulding
+#    - image: /images/BENNETT_06.jpg
+#      description: bulding
+#    - image: /images/BENNETT_05.jpg
+#      description: bulding
+#    - image: /images/BENNETT_07.jpg
+#      description: bulding
+#    - image: /images/BENNETT_08.jpg
+#      description: bulding
+#    - image: /images/BENNETT_09.jpg
+#      description: bulding
+#    - image: /images/BENNETT_10.jpg
+#      description: bulding
+#    - image: /images/BENNETT_11.jpg
+#      description: bulding
+#    - image: /images/BENNETT_12.jpg
+#  description: >
+#    <p>Firm: SMSTUDIO<br>
+#    Vancouver, BC<br>
+#    Completed 2023</p><br>
+#    <p>The house was designed for a small family that loved their neighbourhood, but needed a more functional space that
+#    would better suit their lifestyle. The arrangement of rooms in the house inverts the typical residential layout by placing
+#    the kitchen, living and dining rooms on the upper floor, and instead locating the bedrooms on the entry level. This allows
+#    the living room to take advantage of views of the adjacent park, Burrard inlet and the North Shore mountains beyond,
+#    while providing privacy to the inward-facing bedrooms.</p>
+#    <p>The facade pattern is born out of fire rating requirements and a desire to utilize a generic / lower cost building material in
+#    an innovative way. The result is a bold, playful facade that plays with light and shadow to create a sense of depth and
+#    rhythm. The project utilizes LVL beams to span the width of the room without the need for additional supporting
+#    columns. Materials such as natural stone, board formed concrete and Douglas Fir are used throughout the project
+#    and create a sense of calm and a neutral backdrop for the owners to show their personality through art and furniture.</p><br>
+#    With Jennifer Bassett, Teague McCrae<br>
 - name: CAPE RESIDENCE
   slug: cape-residence
   cover_image:
