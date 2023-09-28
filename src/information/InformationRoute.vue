@@ -6,7 +6,7 @@ import '@appnest/masonry-layout';
   <masonry-layout gap="50">
     <div class="information-block">
       <h2>About</h2>
-      <p>A compassionate, creative designer with 6 years of experience looking to join a team that takes an collaborative, multidisciplinary approach to architecture and design.
+      <p>A compassionate, creative designer with six years of experience looking to join a team that takes a collaborative, multidisciplinary approach to architecture and design.
       </p>
     </div>
     <div class="information-block">
@@ -32,7 +32,7 @@ import '@appnest/masonry-layout';
       <p>Architects Against Housing Alienation (AAHA)<br>
 	Volunteer (2023-Present)
 	</p>
-	<p>Architecture Foundation of british Columbia (AFBC)<br>
+	<p>Architecture Foundation of British Columbia (AFBC)<br>
 	Volunteer (2023-Present)
 	</p>
 	<p>Look Forward Calgary<br>
@@ -86,14 +86,14 @@ import '@appnest/masonry-layout';
     </div>
     <div class="information-block">
       <h2>Academic Awards</h2>
-      <p>2017 Faculty of Environmental Design - Honour Roll<br><br>
-	2017 Canadian Architect Student Award of Excellence - Finalist<br><br>
-	2016 Richard R. Singleton Architecture Bursary<br><br>
-	2016 GEC Award of Comprehensive Design Excellence<br><br>
-	2016 Murray W. Waterman Award<br><br>
-	2016 EVDS Alumni Scholarship<br><br>
-	2016 Shirley Bird Memorial Award<br><br>
-	2015 Queen Elizabeth II Graduate Scholarship<br><br>
+      <p>2017 Faculty of Environmental Design - Honour Roll<br>
+	2017 Canadian Architect Student Award of Excellence - Finalist<br>
+	2016 Richard R. Singleton Architecture Bursary<br>
+	2016 GEC Award of Comprehensive Design Excellence<br>
+	2016 Murray W. Waterman Award<br>
+	2016 EVDS Alumni Scholarship<br>
+	2016 Shirley Bird Memorial Award<br>
+	2015 Queen Elizabeth II Graduate Scholarship<br>
 	2015 Alberta Graduate Student Award<br>
        </p>
     </div>
@@ -111,7 +111,7 @@ import '@appnest/masonry-layout';
 	2020 Canadian Archtiect Award of Excellence<br>
       	MoDA: Calgary Japanese Community Centre<br>
 	      <br>
-	2019 Canadian Architect Award of Excellencebr>
+	2019 Canadian Architect Award of Excellence<br>
 	MoDA: Attbotics Headquarters<br>
 	      <br>
 	2019 World Architecture Festival Category Winner - Office<br>
@@ -155,8 +155,6 @@ import '@appnest/masonry-layout';
 	      <br>
 	2017 Architizer A+ Award - Miltifamily<br>
 	MoDA: Village Multifamily<br>
-	      <br>
-	2017 120 Hours Competition - Honorable Mention
 	</p>
     </div>
   </masonry-layout>
