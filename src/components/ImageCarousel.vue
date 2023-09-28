@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed, onMounted, onUnmounted, ref } from 'vue';
 
 const props = defineProps<{
   images: WorkImage[];
@@ -36,6 +36,19 @@ const expanded = ref(false);
 function toggleExpand () {
   expanded.value = !expanded.value;
 }
+
+function keydownHandler (event: KeyboardEvent) {
+  if (event.code === 'ArrowLeft') previousImage();
+  if (event.code === 'ArrowRight') nextImage();
+}
+
+onMounted(() => {
+  window.addEventListener('keydown', keydownHandler);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('keydown', keydownHandler);
+});
 </script>
 
 <template>
