@@ -7,8 +7,15 @@ const props = defineProps<{
 }>();
 
 const currentImageIndex = ref(0);
-const currentImage = computed(() => {
-  return props.images[currentImageIndex.value];
+const previousAndNextIndex = computed(() => {
+  return {
+    previous:  (currentImageIndex.value === 0)
+      ? props.images.length - 1
+      : currentImageIndex.value - 1,
+    next: (currentImageIndex.value === props.images.length - 1)
+      ? 0
+      : currentImageIndex.value + 1,
+  };
 });
 
 function getSmallImage (image: string) {
@@ -16,20 +23,15 @@ function getSmallImage (image: string) {
   return urlParts[0] + '-sm.' + urlParts[1];
 }
 
-function nextImage () {
-  if (currentImageIndex.value === props.images.length - 1) {
-    currentImageIndex.value = 0;
-  } else {
-    currentImageIndex.value++;
-  }
-}
 
 function previousImage () {
-  if (currentImageIndex.value === 0) {
-    currentImageIndex.value = props.images.length - 1;
-  } else {
-    currentImageIndex.value--;
-  }
+  resetInterval();
+  currentImageIndex.value = previousAndNextIndex.value.previous;
+}
+
+function nextImage () {
+  resetInterval();
+  currentImageIndex.value = previousAndNextIndex.value.next;
 }
 
 const expanded = ref(false);
@@ -42,7 +44,18 @@ function keydownHandler (event: KeyboardEvent) {
   if (event.code === 'ArrowRight') nextImage();
 }
 
+let intervalId: number;
+function resetInterval () {
+  if (!props.work) {
+    clearInterval(intervalId);
+    intervalId = setInterval(() => {
+      nextImage();
+    }, 3000);
+  }
+}
+
 onMounted(() => {
+  resetInterval();
   window.addEventListener('keydown', keydownHandler);
 });
 
@@ -56,11 +69,11 @@ onUnmounted(() => {
     <div class="counter" v-if="work">{{ currentImageIndex + 1 }}/{{ images.length }}</div>
     <div class="image-container">
       <template v-for="(image, index) in images" :key="image.image">
-          <img style="visibility: hidden;" v-if="currentImageIndex === index - 1" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
-          <img style="visibility: hidden;" v-if="currentImageIndex === index + 1" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
+        <img style="visibility: hidden;" v-if="previousAndNextIndex.previous === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
         <Transition>
           <img v-if="currentImageIndex === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
         </Transition>
+        <img style="visibility: hidden;" v-if="previousAndNextIndex.next === index" :src="getSmallImage(image.image)" :alt="image.description" @click="toggleExpand">
       </template>
       <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
       <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
@@ -70,8 +83,15 @@ onUnmounted(() => {
   <Transition>
     <div class="full-screen-image" v-if="expanded">
       <div class="background-screen" @click="toggleExpand"></div>
-      <div class="full-screen-image-container">
-        <img :src="currentImage.image" :alt="currentImage.description" @click="toggleExpand">
+      <div class="image-container">
+        <template v-for="(image, index) in images" :key="image.image">
+        <img style="visibility: hidden;" v-if="previousAndNextIndex.previous === index" :src="image.image" :alt="image.description" @click="toggleExpand">
+        <Transition>
+          <img v-if="currentImageIndex === index" :src="image.image" :alt="image.description" @click="toggleExpand">
+        </Transition>
+        <img style="visibility: hidden;" v-if="previousAndNextIndex.next === index" :src="image.image" :alt="image.description" @click="toggleExpand">
+      </template>
+
         <div class="left-side" :class="{'expandable': work}" @click="previousImage" />
         <div class="right-side" :class="{'expandable': work}" @click="nextImage" />
       </div>
@@ -88,7 +108,7 @@ onUnmounted(() => {
 .image-container {
   position: relative;
   width: 100%;
-  height: 50vh;
+  height: 70vh;
   user-select: none;
 
   & img {
@@ -124,9 +144,10 @@ onUnmounted(() => {
     cursor: var(--cursor-contract);
   }
 
-  & .full-screen-image-container {
+  & .image-container {
     position: relative;
     display: inline-block;
+    height: 90vh;
 
     & img {
       width: 100%;
