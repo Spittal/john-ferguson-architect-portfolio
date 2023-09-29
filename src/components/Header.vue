@@ -26,7 +26,7 @@ header {
   }
 
   & h1 {
-    line-height: 1.35;
+    line-height: 1.12;
   }
 }
 
