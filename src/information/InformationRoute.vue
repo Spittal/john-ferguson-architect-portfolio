@@ -12,80 +12,179 @@
 				<div>University of Calgary</div>
 				<div>2017</div>
 
-				<div>M.Arch</div>
+				<div>B.A. Urban Studies</div>
 				<div>University of Calgary</div>
-				<div>2017</div>
-
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
-
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>2015</div>
 			</div>
     </div>
 
 		<div>
       <h2>Employment</h2>
 			<div class="information-grid">
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Intermediate Designer/div>
+				<div>Simon Montgomery Studio</div>
+				<div>2021 - Present</div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Intern Architect</div>
+				<div>SPECTACLE Bureau for Architecture + Urbanism</div>
+				<div>2020 - 2021</div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Intern Architect</div>
+				<div>Modern Office of Design + Architecture (MoDA)</div>
+				<div>2016 - 2020</div>
+			</div>
+    </div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
+    <div>
+      <h2>Contact</h2>
+			<div class="information-grid">
+				<div>403-463-8181</div>
+				<div> </div>
+				<div> </div>
+
+				<div>john.wj.ferguson@gmail.com</div>
+				<div> </div>
+				<div> </div>
+			</div>
+    </div>
+
+		<div>
+      <h2>Professional Awards</h2>
+			<div class="information-grid">
+				<div>Western Living Architectural Designer of the Year</div>
+				<div>Simon Montgomery Studio</div>
+				<div>2023</div>
+
+				<div>Arthur Erickson Award for Emerging Designer (Finalist)</div>
+				<div>Simon Montgomery Studio</div>
+				<div>2022</div>
+
+				<div>Canadian Architect Award of Merit</div>
+				<div>MoDA: Edmonton Food Hub</div>
+				<div>2021</div>
+
+				<div>Canadian Archtiect Award of Excellence</div>
+				<div>MoDA: Calgary Japanese Community Centre</div>
+				<div>2020</div>
+
+				<div>Canadian Archtiect Award of Excellence</div>
+				<div>MoDA: Attabotics Headquarters</div>
+				<div>2019</div>
+				
+				<div>World Architecture Festival Category Finalist - Office</div>
+				<div>MoDA: Attabotics Office Interiors</div>
+				<div>2019</div>
+
+				<div>World Architecture Festival Category Winner - Future Office</div>
+				<div>MoDA: Attabotics Headquarters</div>
+				<div>2019</div>
+
+				<div>World Architecture Festival Finalist - Residential</div>
+				<div>MoDA: Gallery House</div>
+				<div>2019</div>
+				
+				<div>Mayor’s Urban Design Awards - Edge Development</div>
+				<div>MoDA: Attabotics Headquarters</div>
+				<div>2019</div>
+				
+				<div>Mayor’s Urban Design Awards - Mawson Award</div>
+				<div>MoDA: The Livery Shop</div>
+				<div>2019</div>
+				
+				<div>Architizer A+ Award Finalist</div>
+				<div>MoDA: Attabotis Headquarters</div>
+				<div>2019</div>
+				
+				<div>World Architecture Festival Finalist - Residential</div>
+				<div>MoDA: Lakeview Residence</div>
+				<div>2018</div>
+				
+				<div>AZ Awards Finalist - Multifamily</div>
+				<div>MoDA: GROW Multifamily</div>
+				<div>2018</div>
+				
+				<div>2Canadian Architect Award of Merit</div>
+				<div>MoDA: GROW Multifamily</div>
+				<div>2017</div>
+				
+				<div>Mayor’s Urban Desgin Award - Residential</div>
+				<div>MoDA: GROW Multifamily</div>
+				<div>2017</div>
+				
+				<div>Mayor’s Urban Design Awards - Residential</div>
+				<div>MoDA: Village Multifamily</div>
 				<div>2017</div>
 			</div>
     </div>
 
 		<div>
-      <h2>Employment</h2>
+      <h2>Academic Awards</h2>
 			<div class="information-grid">
-				<div>M.Arch</div>
+				<div>Faculty of Environmental Design - Honour Roll</div>
 				<div>University of Calgary</div>
 				<div>2017</div>
 
-				<div>M.Arch</div>
+				<div>Canadian Architect Student Award of Excellence - Finalist</div>
 				<div>University of Calgary</div>
 				<div>2017</div>
-
-				<div>M.Arch</div>
+				
+				<div>Richard R. Singleton Architecture Bursary</div>
 				<div>University of Calgary</div>
-				<div>2017</div>
-
-				<div>M.Arch</div>
+				<div>2016</div>
+			
+				<div>GEC Award of Comprehensive Design Excellence</div>
 				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>2016</div>
+			
+				<div>Murray W. Waterman Award</div>
+				<div>University of Calgary</div>
+				<div>2016</div>
+			
+				<div>EVDS Alumni Scholarship</div>
+				<div>University of Calgary</div>
+				<div>2016</div>
+			
+				<div>Shirley Bird Memorial Award</div>
+				<div>University of Calgary</div>
+				<div>2016</div>
+				
+				<div>Queen Elizabeth II Graduate Scholarship</div>
+				<div>University of Calgary</div>
+				<div>2015</div>
+			
+				<div>Alberta Graduate Student Award</div>
+				<div>University of Calgary</div>
+				<div>2015</div>
+				
 			</div>
     </div>
-
+			
 		<div>
-      <h2>Employment</h2>
+      <h2>Volunteering</h2>
 			<div class="information-grid">
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Volunteer</div>
+				<div>Architects Against Housing Alienation (AAHA)</div>
+				<div>2023 - Present</div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Volunteer</div>
+				<div>Architecture Foundation of British Columbia (AFBC)</div>
+				<div>2023 - Present</div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Research and Data Committee</div>
+				<div>Look Forward Calgary</div>
+				<div>2019 - 2021</div>
 
-				<div>M.Arch</div>
-				<div>University of Calgary</div>
-				<div>2017</div>
+				<div>Community Relations Co-chair</div>
+				<div>EVDS Students Assocation</div>
+				<div>2016 - 2017</div>
+
+				<div>Side Stage Setup Coordinator</div>
+				<div>Calgary Folk Fest</div>
+				<div>2018 - 2021</div>
+
+				<div>Advocacy Committee</div>
+				<div>Bike Calgary</div>
+				<div>2011 - 2014</div>
 			</div>
     </div>
 
