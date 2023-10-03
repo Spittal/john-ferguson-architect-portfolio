@@ -343,17 +343,12 @@ h2 {
 
 .information-grid {
 	display: grid;
-	grid-template-columns: 3fr 1fr 1fr;
+	grid-template-columns: 2fr 2fr 1fr;
 	gap: var(--spacing-sm);
 
 	& *:nth-child(3n) {
 		text-align: right;
 	}
 }
-
-@media (min-width: 1200px) {
-	.information-route {
-		grid-template-columns: 1fr 1fr;
-	}
 }
 </style>
