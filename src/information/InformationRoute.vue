@@ -1,56 +1,127 @@
-<script setup lang="ts">
-import '@appnest/masonry-layout';
-</script>
-
 <template>
-  <masonry-layout gap="50">
-    <div class="information-block">
+  <div class="information-route">
+    <div>
       <h2>About</h2>
-      <p>A compassionate, creative designer with six years of experience looking to join a team that takes a collaborative, multidisciplinary approach to architecture and design.
-      </p>
+      <p>A compassionate, creative designer with six years of experience looking to join a team that takes a collaborative, multidisciplinary approach to architecture and design.</p>
     </div>
-    <div class="information-block">
+
+    <div>
       <h2>Education</h2>
-      <p>M.Arch<br>
-        University of Calgary (2017)</p>
-      <p>B.A. Urban Studies<br>
-        Minor in Architecture<br>
-        University of Calgary (2015)
-      </p>
+			<div class="information-grid">
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+			</div>
     </div>
-    <div class="information-block">
+
+		<div>
       <h2>Employment</h2>
-      <p>Simon Montgomery Studio<br>
-	Intermediate Designer (2021-Present)</p>
-	<p>SPECTACLE Bureau for Architecture + Urbanism<br>
-	Intern Architect (2020-2021)</p>
-	<p>Modern Office of Design + Architecture (MoDA)<br>
-	Intern Architect (2016-2020)</p>
+			<div class="information-grid">
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+			</div>
     </div>
-    <div class="information-block">
+
+		<div>
+      <h2>Employment</h2>
+			<div class="information-grid">
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+			</div>
+    </div>
+
+		<div>
+      <h2>Employment</h2>
+			<div class="information-grid">
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+
+				<div>M.Arch</div>
+				<div>University of Calgary</div>
+				<div>2017</div>
+			</div>
+    </div>
+
+    <!-- <div>
+      <h2>Employment</h2>
+      <div>Simon Montgomery Studio<br>
+	Intermediate Designer (2021-Present)</div>
+	<div>SPECTACLE Bureau for Architecture + Urbanism<br>
+	Intern Architect (2020-2021)</div>
+	<div>Modern Office of Design + Architecture (MoDA)<br>
+	Intern Architect (2016-2020)</div>
+    </div>
+    <div>
       <h2>Volunteering</h2>
-      <p>Architects Against Housing Alienation (AAHA)<br>
+      <div>Architects Against Housing Alienation (AAHA)<br>
 	Volunteer (2023-Present)
-	</p>
-	<p>Architecture Foundation of British Columbia (AFBC)<br>
+	</div>
+	<div>Architecture Foundation of British Columbia (AFBC)<br>
 	Volunteer (2023-Present)
-	</p>
-	<p>Look Forward Calgary<br>
+	</div>
+	<div>Look Forward Calgary<br>
 	Research and Data Committee (2019-2021)
-	</p>
-	<p>EVDS Students Assocation<br>
+	</div>
+	<div>EVDS Students Assocation<br>
 	Community Relations Chair (2016-2017)
-	</p>
-	<p>Calgary Folk Fest<br>
+	</div>
+	<div>Calgary Folk Fest<br>
 	Side Stage Setup Coordinator (2016-2021)
-	</p>
-	<p>Bike Calgary<br>
+	</div>
+	<div>Bike Calgary<br>
 	Advocacy Committee (2011-2014)
-	</p>
+	</div>
     </div>
-    <div class="information-block">
+    <div>
       <h2>Publications</h2>
-      <p>Western Living: "Architectural Designer of the Year"<br>
+      <div>Western Living: "Architectural Designer of the Year"<br>
       	Simon Montgomery Stuidio (2023)<br>
 	      <br>
 	Wallpaper: “This forest retreat in BC offers architectural shelter”<br>
@@ -82,11 +153,11 @@ import '@appnest/masonry-layout';
 	      <br>
 	MARK Magazine - Issue 71<br>
 	MoDA: Village (2017)<br>
-	</p>
+	</div>
     </div>
-    <div class="information-block">
+    <div>
       <h2>Academic Awards</h2>
-      <p>2017 Faculty of Environmental Design - Honour Roll<br>
+      <div>2017 Faculty of Environmental Design - Honour Roll<br>
 	2017 Canadian Architect Student Award of Excellence - Finalist<br>
 	2016 Richard R. Singleton Architecture Bursary<br>
 	2016 GEC Award of Comprehensive Design Excellence<br>
@@ -95,11 +166,11 @@ import '@appnest/masonry-layout';
 	2016 Shirley Bird Memorial Award<br>
 	2015 Queen Elizabeth II Graduate Scholarship<br>
 	2015 Alberta Graduate Student Award<br>
-       </p>
+       </div>
     </div>
-    <div class="information-block">
+    <div>
       <h2>Professional Awards</h2>
-      <p>2023 Western Living Architectural Designer of the Year<br>
+      <div>2023 Western Living Architectural Designer of the Year<br>
 	Simon Montgomery Studio<br>
 	      <br>
 	2022 Arthur Erickson Award for Emerging Designer (Finalist)<br>
@@ -155,13 +226,35 @@ import '@appnest/masonry-layout';
 	      <br>
 	2017 Architizer A+ Award - Miltifamily<br>
 	MoDA: Village Multifamily<br>
-	</p>
-    </div>
-  </masonry-layout>
+	</div>
+    </div> -->
+  </div>
 </template>
 
-<style scoped>
+<style scoped lang="postcss">
 h2 {
 	border-bottom: var(--spacing-xs) solid var(--color-text);
+	margin-bottom: var(--spacing-sm);
+}
+
+.information-route {
+	display: grid;
+	gap: var(--spacing-md);
+}
+
+.information-grid {
+	display: grid;
+	grid-template-columns: 3fr 1fr 1fr;
+	gap: var(--spacing-sm);
+
+	& *:nth-child(3n) {
+		text-align: right;
+	}
+}
+
+@media (min-width: 1200px) {
+	.information-route {
+		grid-template-columns: 1fr 1fr;
+	}
 }
 </style>
