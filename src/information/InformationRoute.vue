@@ -18,10 +18,10 @@
 			</div>
     </div>
 
-		<div>
+   <div>
       <h2>Employment</h2>
 			<div class="information-grid">
-				<div>Intermediate Designer/div>
+				<div>Intermediate Designer</div>
 				<div>Simon Montgomery Studio</div>
 				<div>2021 - Present</div>
 
