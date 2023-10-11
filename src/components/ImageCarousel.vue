@@ -178,6 +178,7 @@ onUnmounted(() => {
 
 .counter {
   margin-bottom: var(--spacing-sm);
+  text-align: center;
 }
 
 @media (min-width: 1000px) {
