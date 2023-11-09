@@ -166,10 +166,6 @@
 				<div>Architects Against Housing Alienation (AAHA)</div>
 				<div>2023 - Present</div>
 
-				<div>Volunteer</div>
-				<div>Architecture Foundation of British Columbia (AFBC)</div>
-				<div>2023 - Present</div>
-
 				<div>Research and Data Committee</div>
 				<div>Look Forward Calgary</div>
 				<div>2019 - 2021</div>
