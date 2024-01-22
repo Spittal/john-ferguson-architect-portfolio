@@ -35,7 +35,7 @@
 
   --color-text: #000000;
 
-  --color-bg-light: rgba(255, 255, 255, 1);
+  --color-bg-light: #ebebeb;
 
   --cursor-primary: url("/arrows/Arrow-V2.svg"), auto;
   --cursor-left: url("/arrows/Back-V2.svg"), auto;
