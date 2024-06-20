@@ -51,6 +51,10 @@
 		<div>
       <h2>Professional Awards</h2>
 			<div class="information-grid">
+				<div>RAIC Governor General’s Medals in Architecture</div>
+				<div>MoDA: Grow Multifamily</div>
+				<div>2024</div>
+				
 				<div>Western Living Architectural Designer of the Year</div>
 				<div>Simon Montgomery Studio</div>
 				<div>2023</div>
