@@ -2,7 +2,7 @@
   <div class="information-route">
     <div>
       <h2>About</h2>
-      <p>A compassionate, creative designer with six years of experience looking to join a team that takes a collaborative, multidisciplinary approach to architecture and design.</p>
+      <p>John Ferguson is a compassionate, conceptually-driven designer based in Vancouver who takes a collaborative, multidisciplinary approach to architecture and design.</p>
     </div>
 
     <div>
@@ -21,9 +21,13 @@
    <div>
       <h2>Employment</h2>
 			<div class="information-grid">
+				<div>Architect</div>
+				<div>Leckie Studio Architecture + Design</div>
+				<div>2024 - Present</div>
+				
 				<div>Intermediate Designer</div>
 				<div>Simon Montgomery Studio</div>
-				<div>2021 - Present</div>
+				<div>2021 - 2024</div>
 
 				<div>Intern Architect</div>
 				<div>SPECTACLE Bureau for Architecture + Urbanism</div>
